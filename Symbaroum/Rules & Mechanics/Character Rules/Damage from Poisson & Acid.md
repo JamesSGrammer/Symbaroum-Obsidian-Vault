@@ -1,0 +1,2 @@
+Poison deals damage each turn, and is not affected by Armor once it has begun to take effect. Poison continues to deal damage until its duration ends, or until someone applies an antidote and makes a successful *[[Cunning]]* test.
+Acid attacks each turn and has to penetrate Armor in order to deal damage. Removing acid from a body or armor requires that someone spends a Combat Action and makes a successful *[[Cunning]]* test (washes away the acid with either water, dirt or something similar).

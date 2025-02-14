@@ -1,0 +1,2 @@
+**Price**: 12 thaler
+These weapons were forged to allow a wielder to strike from a distance. Only mystics (defined as someone who has learned at least one mystical power) know how to use such an artifact. The attack is rolled as if in melee combat but may hit distant targets and requires a clear line of sight, just as ranged attacks. Active abilities may be used, but at one level lower: a master may use the adept level of the ability through the transcendental weapon; an adept may use the novice level. A novice cannot use the ability together with a transcendental weapon.

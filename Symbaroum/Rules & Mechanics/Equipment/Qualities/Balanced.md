@@ -1,0 +1,1 @@
+The weapon is so well balanced that it is extra effective when parrying. The weapon provides +1 in Defense.

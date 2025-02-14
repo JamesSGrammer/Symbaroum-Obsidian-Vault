@@ -1,0 +1,4 @@
+**Tradition**: Only available to Green Weavers
+The higher level of the ritual [[Quick Growth]] lets the mystic create a fortress of living trees and thorny bushes. The fort counts as a Wooden Fort (see Damage on Buildings, page 106) and defends against anyone trying to pass its living walls – both when entering and exiting. Those trying to pass must succeed with three [Quick←Resolute] tests or suffer 1d12 damage (ignoring armor) per failure from being impaled by thorns or beaten by heavy branches.
+The mystic who created the fort can let anyone in or out, and may also teach his or her allies secret words which will let them pass unhindered through the watchful greenery.
+The fortress lives a season (three months), then the ritual must be performed again or it will start to wither away. Performing the ritual costs one Experience point.

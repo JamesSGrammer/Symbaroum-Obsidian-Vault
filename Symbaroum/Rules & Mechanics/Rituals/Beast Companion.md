@@ -1,0 +1,2 @@
+**Tradition**: Only available to Blood Waders
+The higher level of the ritual [[Familiar]] binds the beast to the mystic’s body and soul; if the familiar dies it is resurrected at dawn the following morning. The mystic suffers damage when the familiar dies, as before. Should the beast companion become thoroughly corrupt – through the ritual [[Blood Bond]] or in some other way – the link between the mystic and the beast is forever broken.

@@ -1,0 +1,5 @@
+The effect of the weapon affects an area and dam ages all who happen to be inside it. One test is made for each creature in the area; those who are hit suffer full damage while those who pass the Defense test suffer half damage. Ongoing secondary effects only affect those who suffer full damage from the initial effect.
+There are two types of Area Effects, radius and cone, and the former exist in two versions: Melee Range and Short.
+**Melee Range Radius**: 1–2 meters, meaning one creature and all others in its direct vicinity – those who are in melee combat with the target or who could be without having to spend a movement action.
+**Short Radius**: 10 meters, meaning all who are within a movement action from the targeted spot on the ground.
+**Cone**: Anyone present in front of the weapon is at risk of being hit when the weapon is fired. If movement by scale is used on a grid, the cone is as wide as the distance from the weapon. At melee range it is 1–2 meters wide, at short range it is approximately 10 meters wide, and at the maximum medium range it is about 20 meters wide.

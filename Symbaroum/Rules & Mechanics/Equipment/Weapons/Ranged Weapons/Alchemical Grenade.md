@@ -1,0 +1,4 @@
+**Price**: 1 thaler
+**Damage**: 1D10
+**Quality**: [[Flaming]], [[Area Effect]] (radius)
+The alchemical grenade is the smaller cousin of the breaching pot – a sturdy ceramic vessel is filled with volatile substances that explode when ignited with a fuse or when the vessel is crushed. The grenade is fist-sized and is thrown by hand or with a sling. The thrower aims at one target and may also roll to hit anyone within melee range from the targeted creature. With a successful attack roll, those who are hit suffer full damage, plus damage from fire as an ongoing effect. Should the attack test instead fail, all who manage to defend themselves suffer only half damage and no ongoing effect from fire. Anyone can use an alchemical grenade, but an untrained user (i.e. who has not learned [[Alchemy]], [[Siege Expert]] or [[Pyrotechnics]]) are at risk of triggering a catastrophic failure (see Alchemical Weapons, page 98.

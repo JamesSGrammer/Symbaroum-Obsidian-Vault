@@ -1,0 +1,1 @@
+*Vigilant* represents a character’s general awareness, the attunement of its senses and its ability to detect the details of its surroundings. *Vigilant* is often opposed by an enemy’s *[[Discreet]]*.

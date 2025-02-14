@@ -1,0 +1,8 @@
+**Tradition**: Wizardry, Theurgy
+**Material**: A handful of feathers. 
+The binding force of the world can be manipulated, and with that insight the mystic has gained the capability to levitate, using nothing but the power of the mind.
+
+---
+- Novice **Active**. With a successful Resolute test the mystic can soar over the battlefield, out of reach of melee weapons. The mystic can move a distance equal to one stride per turn while levitating. Ranged attacks and flying enemies remain a problem. The mystic stays floating in the air until the mystic breaks con centration or the scene ends. If concentration is broken the mystic falls to the ground and suffers 1D6 damage, ignoring any Armor the mystic might be wearing.
+- Adept **Active**. With a passed [Resolute←Strong] test the mystic can levitate an ally and let him or her soar over the battlefield out of reach of the enemies’ melee weapons. The mystic can move the soaring ally a distance equal to one stride per turn while it is levitating. Ranged attacks and flying enemies remain a problem. The mystic’s ally stays soaring in the air until the mystic breaks concentration or the scene ends. If concentration is broken the ally falls to the ground and suffers 1D6 damage, ignoring Armor.
+- Master **Active**. The mystic can make itself and a Chain of allies [Resolute←Strong] soar over the battlefield, out of reach of melee weapons. The mystic can move both itself and any soaring creature a distance equal to one stride per turn while levitating. Ranged at tacks and flying enemies remain a problem. The mystic and its allies stay soaring in the air until the mystic breaks concentration or the scene ends. If concentration is broken, they all float down to the ground without taking any damage

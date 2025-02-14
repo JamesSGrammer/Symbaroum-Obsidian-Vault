@@ -1,0 +1,1 @@
+All animals and creatures that belong to nature, such as wolves, reptiles and spider-like pests. 

@@ -1,0 +1,6 @@
+- Suria Argona
+- Searching the archives for information costs one thaler per hour
+- Notaries Karasto & Perela
+
+
+The Queen’s Legation must also be mentioned among the credible sources of information in town, at least in some areas. Suria Argona has two notaries employed, with the express task of recording everything that has to do with Queen Korinthia’s grandiose endeavor. Hence, the shelves of the cellar vault are jam-packed with books and scrolls, describing huge as well as small events in the history and development of the region. Searching the archives for information costs one thaler per hour, but an alternative is to trade for the time – that is, you agree to tell the notaries of some more or less significant event that they are interested in preserving for posterity. The latter can also be a way to add to the travel funds or save up for a couple of extra nights at one of Thistle Hold’s guesthouses. Provided you are deemed credible, a witness statement from an expedition into Davokar or from some notable incident inside the palisade can pay between one and five thaler. But liars and showoffs should not bother to try, since the notaries Karasto and Perela are said to possess mystical means of revealing untruths – something which may result in a ban from the building.

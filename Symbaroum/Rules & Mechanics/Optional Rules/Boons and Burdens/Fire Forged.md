@@ -1,0 +1,1 @@
+The character was born beneath a glowing celestial phenomenon or was the only one to survive a devastating fire. He or she has a mystical +1 protection against fire and has also a +1 bonus on all success tests related to the use of, or resistance to, fire and flames.

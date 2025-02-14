@@ -1,0 +1,3 @@
+**Tradition**: Witchcraft, Sorcery
+The mystic places a tormenting curse on the target. This requires a mystical link to the target. The effect of the ritual can vary, but an often employed version makes the victim slowly wither – its Toughness is reduced by one point each week and it cannot heal until the curse is lifted.
+Other known effects of the ritual are the summoning of warts or a nasty stench that surrounds the victim, making the target tired during the day and alert at night – then often limited to a duration of a month, just to teach the target a lesson. The torment effect can be aborted by the ritual [[Break Link]].

@@ -1,0 +1,3 @@
+To surround the enemy is an effective combat strategy. If two persons flank an enemy, both of them gain an Advantage against the target. A maximum of four persons can surround a person or creature; any combatant beyond that will be unable to reach the target and can only step forward if one of its allies retreats or goes down.
+Terrain and the movement of the combatant decide what is possible to achieve. Doors, corridors and narrow passages can be used to prevent enemies from flanking.
+Remember that attempting to move past an enemy triggers a Free Attack. The Free Attack can be avoided if the combatant opts to trade its Combat Action that turn for an additional Movement Action, making it possible to go around the enemy without entering into melee.

@@ -1,0 +1,2 @@
+**Price**: 2 thaler
+The alchemical oil protects against elemental damage by providing 1D4 additional *Armor* against one of the elements for the duration of a scene. The alchemist must choose which of the elements that the oil shields against: fire, cold, acid or lightning.

@@ -1,0 +1,13 @@
+Manner Raging and roaring 
+Race Human (barbarian) 
+Resistance Ordinary 
+Traits [[Natural Weapon]] (I), [[HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Traits/Robust|Robust]] (I) 
+Accurate 15 (−5), Cunning 5 (+5), Discreet 7 (+3), Persuasive 9 (+1), Quick 10 (0), Resolute 10 (0), Strong 13 (−3), Vigilant 11 (−1) 
+Abilities Natural Warrior (novice), Poisoner (adept) 
+Weapons Bone Crafts 6 (+ poison, 2 in damage for 2 turns 
+Armor Leather 2 (+2 [[HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Monstrous Traits/Robust|Robust]]) 
+Defense +3 
+Toughness 13 Pain Threshold 7 
+Equipment 2 doses [[Poison (Weak)]]
+Shadow Dark purple streaked by black, pulsating veins (corruption: 7) 
+Tactics: The warriors let the Clan Beasts move in first. After having applied poison to their natural weapons (requires passing a Cunning test, the players roll) they join the fight in places where they have the possibility to flank the enemy.

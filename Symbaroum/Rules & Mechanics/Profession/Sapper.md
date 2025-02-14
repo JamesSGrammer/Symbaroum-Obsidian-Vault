@@ -1,0 +1,9 @@
+War can be won on battlefields or through sieges, and both of these require advanced field works. In Ambria, most such tasks are handled by Her Majesty’s Sapper Corps, 7th Army, Yndarien. Ordo Magica also has a department for battle field alchemy at their head quarters in Agrella; known as The Panzer Alchemists. This elite group of sappers serves the duchy of Kasandrien. The other duchies also have sapper squads, though not of the same caliber. All sappers are trained in the use of siege weapons, from ballistas to trebuchets, and the most qualified can handle alchemical weapons. Sappers are also trained to craft simple fortifications, like barricades for cavaliers, trenches and undermining tunnels.
+Ordo Magica has realized that ogres are well equipped to be panzer alchemists and the wizards are supervising attempts to school a number of ogres in the use of alchemical weapons. These pensive giants have also convincingly proven that the heavy alchemical firetube can be employed as an effective, two-handed crushing weapon. This is assumed to increase the life expectancy of the sappers, since those who discharge an alchemical firetube often are at worryingly short distance from the enemy.
+
+---
+- **Important Attributes**: [[Cunning]] 13+, [[Accurate]] 11+ 
+- Suggested Race: Ambrian or [[Ogre]]
+- **Appropriate Abilities**: [[Alchemy]] or [[Blacksmith]], [[Man-at-arms]] or [[Two-handed Force]], [[Siege Expert]]
+- **Suggested Boons**: [[Contacts]], [[Dexterous]], [[Enduring March]], [[Forbidden Knowledge]], [[Pack-Mule]]
+- **Suggested Burdens**: [[Addiction]], [[HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Traits/Slow|Slow]]

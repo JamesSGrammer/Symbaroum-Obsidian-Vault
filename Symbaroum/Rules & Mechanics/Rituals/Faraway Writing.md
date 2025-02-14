@@ -1,0 +1,2 @@
+**Tradition**: Symbolism 
+From a distance the mystic can write signs and symbols in a well-known location. The signs appear on a flat surface, like a wall, a floor or a table. They appear when the mystic performs the ritual, and spell out a short message or even a mystical power from the tradition of Symbolism. The mystic can choose to let the writing be visible to all or become visible when a specific individual views the surface. In the latter case, the text appears and/or the power is activated only when that person sees it.

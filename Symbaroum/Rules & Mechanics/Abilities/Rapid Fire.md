@@ -1,0 +1,6 @@
+Archers in Ambria and Davokar have developed techniques for rapid firing. In essence, if right handed, they place the arrow on the right side of the bow instead of on the left, and draw several arrows at a time from the quiver to hold them in the left hand. This way, arrows may be knocked, aimed and fired in a single motion, meaning that they can be launched one after the other – truly bad news for poorly armored targets. The ability requires that some kind of bow be used in combat.
+
+---
+- Novice **Active**. The character can sacrifice his or her movement action to fire a second arrow, two in total. This may only be done if the combat action is also used for firing a bow. The arrows are rolled separately and may (but do not have to) be aimed at the same target.
+- Adept **Active**. The character may fire two arrows with a single combat action, at one or two different targets.
+- Master **Active**. The character fires three arrows with a single combat action, at one or two different targets.

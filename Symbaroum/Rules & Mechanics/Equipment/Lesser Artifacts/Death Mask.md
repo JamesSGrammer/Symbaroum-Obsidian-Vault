@@ -1,0 +1,2 @@
+**Price**: 10 thaler
+The necromancers’ aspiration to dominate death has led to the use of hideous death masks that have been infused with power. A death mask gives a +1 bonus on tests for all powers and rituals affecting the intersection between life and death, for instance the power [[Revenant Strike]] and the ritual [[Raise Undead]].

@@ -1,0 +1,1 @@
+The character has somehow come to possess the secrets of the mystical traditions regarding alchemy and artifact crafting; maybe as a result of espionage or after having served a far-traveled Master. With the abilities Alchemy and Artifact Crafting, he or she has the capability to create all elixirs and artifacts, including those belonging to the secrets of other traditions.

@@ -1,0 +1,8 @@
+**Tradition**: Sorcery 
+**Material**: A shard of volcanic glass 
+During The Great War, the black bolts of the Dark Lords, ensnaring and burning their targets, were feared by all. In more recent days, other sorcerers have discovered that they can do the same, by extending their tainted souls and using them as a whip that traps and corrodes the enemy. The mystic cannot cast a new black bolt as long as at least one enemy is ensnared by the power, but he or she is free to make use of other mystical powers.
+
+---
+- Novice **Active**. With a passed [Resolute←Quick] test, the character casts a black bolt at an enemy. If successful, the target is hit and suffers 1D6 damage, ignoring Armor. Also, the target is trapped and may not act until it manages to break free, which requires a passed Resolute test (one roll is made each turn after the first) or happens automatically if the mystic loses concentration, [Resolute –Damage]
+- Adept **Active**. The character casts a chain of black bolts. This works just like at the novice level, but for every target that is hit by the bolt an other enemy may be attacked, until a failed success test is rolled. All affected enemies may try to break free from the effect of the power, and if one of them succeeds all of them are immediately free to act. The same happens if the mystic loses concentration, [Resolute –Damage].
+- Master **Active**. The character casts a chain of black bolts, just like at the adept level, but ensnared targets must break free individu ally; they cannot help each other like at the adept level. If the mystic loses concentration [Resolute –Damage] all targets are immedi ately freed from the entangling darkness.

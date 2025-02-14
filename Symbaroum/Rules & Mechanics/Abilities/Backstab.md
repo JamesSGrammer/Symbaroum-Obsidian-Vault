@@ -1,0 +1,6 @@
+The palace of Yndaros, the alleys of Thistle Hold and the gloom of Davokar are extremely different surroundings, but they have at least one thing in common: when arguments fail, the blades speak up. The character has learned how to exploit weak nesses in an enemy’s defense, and will not let an opportunity go by without making a Backstab.
+
+---
+- Novice **Reaction**. One attack per turn made from Advantage deals +1D4 damage in addition to any damage already inflicted thanks to the Advantage. The character may use Discreet instead of Accurate when making attacks while at an Advantage. Backstab may only be performed once per turn, regardless of other circumstances.
+- Adept **Reaction**. The character’s Backstab deals extra damage (as above) and also causes a bleeding wound to the enemy. The attack opens a wound that bleeds heavily, inflicting 1D4 damage each turn following the attack. The enemy continues to bleed until healed by an herbal cure, the Medicus ability or in some other way.
+- Master **Reaction**. The character’s Backstab deals 1D8 extra damage and causes a bleeding wound to the enemy, just like at adept level. There are no longer any limits to how many backstabs a Master can perform each turn. All attacks are backstabs as long as the conditions for Advantage are met (see page 162)

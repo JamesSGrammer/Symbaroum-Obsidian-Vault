@@ -1,0 +1,2 @@
+**Price**: 10 thaler
+A used copy of the famous ogre Crueljaw’s lustful tome that contains a lengthy record of traps, from simple mare snares and needle-traps in box lids to massive contraptions suited for a king’s burial mound. The book gives a +1 bonus to all success tests with *[[Trapper]]*.

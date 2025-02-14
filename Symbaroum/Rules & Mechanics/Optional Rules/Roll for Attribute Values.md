@@ -1,0 +1,1 @@
+For groups that are more old-school, or of such an inclination, there is the option to roll dice to generate your Attribute values, rather than doing it by distributing points. The easiest way to go is to roll 2D6+3 eight times (one for each Attribute) and then place these numbers appropriately, according to the character you have in mind.

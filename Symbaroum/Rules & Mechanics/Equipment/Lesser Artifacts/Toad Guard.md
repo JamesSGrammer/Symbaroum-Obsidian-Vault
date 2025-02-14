@@ -1,0 +1,2 @@
+**Price**: 1 thaler
+A figurine in the form of a toad acts as an alarm. The user – who has to know at least one mystical power – whispers a triggering condition to the figurine; the trigger has to be of a physical nature and must occur close to the toad guard, for example that *“someone passes through the grove”* or *“the door is opened from outside.”* If activated, the toad will wake everyone with a loud croaking.

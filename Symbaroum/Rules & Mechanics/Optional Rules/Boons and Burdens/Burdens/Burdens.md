@@ -1,0 +1,1 @@
+Burdens are negative traits which add to the character’s history and also provide extra Experience to spend on abilities/boons. Using burdens is considered an optional rule, so the gaming group has to reach a common understanding on whether or not to do so.

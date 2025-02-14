@@ -1,0 +1,1 @@
+The character has a mystical connection to all growing things and has a +1 bonus on tests related to challenges in the wilds, such as orienting in the woods, finding food and shelter, and detecting/ avoiding natural traps. The bonus also applies to all Alchemy tests. Green Thumb can be acquired multiple times, up to a maximum bonus of +3 on relevant tests.

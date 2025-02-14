@@ -1,0 +1,6 @@
+The creature can spin tough webs and use them either passively or actively to capture its prey.
+
+---
+- **I Passive.** The threads of the web force all who pass through it to make a [Quick←Cunning] test or get stuck. To get free requires a successful [Strong← Cunning] test, with one test being made each turn. A captured creature cannot move and must roll twice when attempting to perform any Actions – the attempt fails if either of these tests are unsuccessful. 
+- **II Active.** Besides passive, pre-fabricated webs (as level I), the creature can now throw a net at an enemy as an Action. The victim can avoid the attack if it makes a successful [Quick←Accurate] test. A captured creature must succeed with a [Strong← Cunning] test in order to break free, with one test allowed per turn. A captured creature cannot move and must roll twice when attempting to perform any Actions – the attempt fails if either of these tests are unsuccessful. 
+- **III Active.** The net is almost alive and obeys its creator; it has the passive ability to capture creatures (as level I) but the net can also strike out with up to three (3) threads per turn, with the same effect as level II.

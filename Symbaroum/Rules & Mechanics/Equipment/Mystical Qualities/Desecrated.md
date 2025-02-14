@@ -1,0 +1,2 @@
+The weapon or armor is forged in black fire and has extra power against untainted creatures. A creature that is wounded must roll 1d20 under its total corruption value, or suffer +1d4 damage. And when someone wearing Desecrated armor is hit by a successful attack, the attacker must roll 1d20 under its total corruption value; if the outcome is equal to or higher, the armor adds +1d4 protection against the attack.
+Thoroughly corrupt creatures always pass these tests, while untainted beings (with zero corruption) always fail.

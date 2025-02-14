@@ -1,0 +1,1 @@
+The character was born during a solar eclipse and ever since then shadows are drawn to him or her. The shadow spawn gets a +1 bonus on all Discreet tests when sneaking or hiding. Shadow Spawn can be acquired multiple times, up to a maximum bonus of +3 on relevant tests.

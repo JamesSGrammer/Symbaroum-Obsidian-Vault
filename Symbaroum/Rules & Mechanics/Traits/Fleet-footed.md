@@ -1,0 +1,1 @@
+The creature moves at an unusually high speed. In situations where precision counts, the movement is 13 meters per turn. And in connection to the rule on Flight & Hunt, the trait gives a +3 Quick bonus.

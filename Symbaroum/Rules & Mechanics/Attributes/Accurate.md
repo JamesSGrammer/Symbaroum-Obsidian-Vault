@@ -1,0 +1,1 @@
+A character’s hand-eye coordination, precision and timing are all represented by Accurate. This Attribute is for instance used to hit an intended target with punches, strikes, throws or a missile from a ranged weapon. *Accurate* is in most cases opposed by an enemy’s *[[Quick]]*.

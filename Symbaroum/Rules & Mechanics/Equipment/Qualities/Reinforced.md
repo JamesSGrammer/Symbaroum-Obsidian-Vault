@@ -1,0 +1,1 @@
+The armor is tougher than other armor in the same category (light, medium, heavy), meaning that the wearer may add +1 to his or her armor rolls.

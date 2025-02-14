@@ -1,0 +1,2 @@
+**Price**: 12 thaler
+A seemingly ordinary candle that emits poisonous fumes when lit; revealed with a passed [Vigilant←alchemist’s Discreet]. The poison is air borne and affects everyone in the room or in the vicinity. The candle must burn for 1d4 turns before the poison is released, so the assassin can light it and leave the room before it takes effect. A weak poison candle deals 2 damage per turn, **a moderate 3 damage per turn**.

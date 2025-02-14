@@ -1,0 +1,1 @@
+Reactions are quick responses or follow-ups to other Actions or circumstances. They can be performed at any time during the turn and are not tied to the character’s Initiative. The character can perform as many Reactions as is called for per turn, as long as there are triggers to react to. Reactions can use the effect of passive abilities, but not of active ones.

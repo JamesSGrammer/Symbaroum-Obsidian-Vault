@@ -1,0 +1,4 @@
+in combat, the Game Master manages all resistance and all opponents, and decides which abilities or traits the enemies are going to use. Even so, all rolls and tests are made by the players: the stats used by the Game Master (if any) work as modifications to the players’ rolls when they make these tests.
+
+---
+**Example**: The characters end up in a fight against a tainted Beamon with *[[Accurate]]* 11 (which will give the character’s roll a modification of −1). The Game Master doesn’t roll any dice for the bear beast’s attack; the players roll their *Defense* at −1 instead, thus modified by the bear’s *[[Accurate]]*. The Beamon’s attack hits if the players fail the test, and misses if the outcome is a success.

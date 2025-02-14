@@ -1,0 +1,3 @@
+**Tradition**: Wizardry 
+The mystic weaves an illusory image around itself or an ally, who then assumes a different physical appearance. This cannot be the appearance of a specific individual, only of a typical version of the member of a race. The mystic can decide on form and features typical to the race, in terms of gender, hair color, voice, cloths and so on but the target keeps its stats, abilities and shadow. Its actual size is not affected, only the size of the illusory appearance.
+The illusion cannot be revealed without using other powers or rituals. The only exception is if the target tries to do something he or she normally cannot do, but that the assumed shape could do; then the illusion crumbles. Other than that, the False Shape fades away after about a week

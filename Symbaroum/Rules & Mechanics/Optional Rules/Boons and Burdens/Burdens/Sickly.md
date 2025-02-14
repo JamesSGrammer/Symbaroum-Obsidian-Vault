@@ -1,0 +1,1 @@
+The character suffers from a chronic disease, making him or her weak. Normally, this does not show, but when damaged or traumatized the character is at great risk of dying – all death tests are made with two dice and the worst, most unfavorable outcome stands.

@@ -1,0 +1,2 @@
+Dark blood flows through the character’s veins, passed down from an ancestor, or as a result of being cursed. Maybe the player character was simply born in the wrong part of Davokar at the wrong time. The dark blood always comes with some form of physical stigma, represented by the burden Bestial.
+The character may acquire and develop the following monstrous traits as though they were ordinary abilities: Natural Weapon, Armored, Robust, Regeneration, Wings

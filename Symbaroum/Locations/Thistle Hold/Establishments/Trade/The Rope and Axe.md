@@ -1,0 +1,5 @@
+- Owner: Melena
+- Sells: Explorers Gear
+
+
+The Rope and Axe is the result of a grim family feud. The owner Melena is the daughter of the competitor Marvalom and helped her father starting up his business. It is rumored that she spent many years in the capital living at the edge of starvation, convinced that the store had a hard time making a profit. And all the while Marvalom bought himself a spacious house and hired a cook and a handful of goblin servants. When Melena discovered what was going on, she moved back to Thistle Hold intent on ruining her father. The business idea is a simple one: everything needed for travels in Davokar can be found under the same roof. Craftsmen can offer her low prices thanks to the steady inflow of new orders and she buys from all over the realm to get the best prices available. It is also said that Melena buys equipment from the families of deceased explorers and that she is not afraid to fence stolen items, but this she categorically denies as vile rumors spread by her father. According to her, The Rope and Axe only offers customers first-rate and pristine objects crafted by Ambria’s best artisans!

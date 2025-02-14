@@ -1,0 +1,1 @@
+The weapon is inscribed with life-denying runes that deal 1d4 extra damage against living and not thoroughly corrupt creatures. In the case of undead or other thoroughly corrupt beings, the energies instead heal 1d4 *Toughness*.

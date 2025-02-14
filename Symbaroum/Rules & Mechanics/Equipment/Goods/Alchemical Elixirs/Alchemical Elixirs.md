@@ -1,0 +1,1 @@
+The peoples of the Davokar region possess a vast knowledge of how to transform the herbs, fruits and bodily organs of nature into useful elixirs. Among the barbarians it is usually the witches who create the elixirs, while Ambrian decoctions are often made by specialized craftsmen and artisans.

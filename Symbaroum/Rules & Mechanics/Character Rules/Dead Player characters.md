@@ -1,0 +1,1 @@
+Dead player characters may not remain in the game, but the player who creates a new character may do so using all the Experience accumulated by the last character. This way, the new character does not have to start too far behind the others.

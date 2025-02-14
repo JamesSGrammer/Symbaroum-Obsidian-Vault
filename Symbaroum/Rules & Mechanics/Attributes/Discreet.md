@@ -1,0 +1,1 @@
+A player character’s value in *Discreet* mirrors its aptitude for and training in being silent, agile and, well, discreet. This Attribute can be used to avoid being detected, to hide or smuggle something, to shadow someone or to steal something out of a person’s pocket. Discreet is *often* opposed by an enemy’s *[[Vigilant]]*.

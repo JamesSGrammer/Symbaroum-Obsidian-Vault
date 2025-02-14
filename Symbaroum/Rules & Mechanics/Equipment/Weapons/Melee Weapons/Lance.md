@@ -1,0 +1,4 @@
+**Price**: 10 thaler
+**Damage**: 1D8
+**Quality**: [[Bastard Weapon]], [[Long]], [[Precise]]
+The value of the lance should not be underestimated – the largest monstrosities of the Dark Lords were often slain by lances in the hands of brave knights. The weapon was also used by the Ambrian cavalry to gain dominance over the lowlands and drive barbarians, packs of predators and abominations into the forest of Davokar. The lance is an elongated spear, with a grip and quillon adapted for use on horseback. When riding a horse the lance has the quality [[Long]], even if gripped in one hand. On foot, the lance is too long to be wielded in only one hand.

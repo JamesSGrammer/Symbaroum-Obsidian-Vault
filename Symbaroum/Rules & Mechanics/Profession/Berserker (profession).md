@@ -1,0 +1,4 @@
+Spirits of rage follow you and fill you with uncontrolled ferocity in battle. When you are not in combat you are of a thoughtful and patient disposition, a contrast that makes you both appreciated and feared. The barbarians speak of the Guard of the Slumbering Wrath, a handpicked group of berserkers serving as the High Chieftain’s bodyguard – do you dream of joining their ranks, or do you seek to defeat one of them as revenge for taking your place among them?
+- **Important Attributes**: [[Strong]] 13+, [[Quick]] 11+
+- **Suggested race**: Barbarian or [[Ogre]]
+- **Appropriate abilities**: [[Berserker]], [[Iron Fist]], [[Recovery]], [[Two-handed Force]]

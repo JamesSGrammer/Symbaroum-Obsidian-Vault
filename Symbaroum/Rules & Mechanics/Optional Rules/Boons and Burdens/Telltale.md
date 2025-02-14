@@ -1,0 +1,1 @@
+The character has ears and a tongue for gossip and can sniff out rumors and also pass them on to new places. He or she gets a +1 bonus to all tests in connection to hearing, spreading or realizing the truth behind rumors. Telltale can be acquired multiple times, up to a maximum bonus of +3 on relevant tests.

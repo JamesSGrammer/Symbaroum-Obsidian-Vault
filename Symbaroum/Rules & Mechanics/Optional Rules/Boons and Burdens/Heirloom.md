@@ -1,0 +1,1 @@
+The character has inherited a family heirloom. Choose an optional weapon or armor from the lists in the Core Rulebook or the Advanced Player’s Guide, except items with some kind of mystical quality.

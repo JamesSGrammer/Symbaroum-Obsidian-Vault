@@ -1,0 +1,6 @@
+The mystical tradition of trolls is expressed through singing, sometimes accompanied by music played on horn, flute or pipes. According to the trolls’ educational songs, the tradition stems from the kauking singing style that trolls use to communicate over long distances in the Underworld.
+
+---
+- Novice **Special**. The troll singer suffers no permanent corruption from learning troll songs at the novice level, but has no protection from temporary corruption suffered when singing them. In addition, once per scene all troll singers have a second chance to succeed on a test when trying to influence or affect a target’s mind (that is, situations when the adversary defends using the attribute Resolute). The re-roll may not be used to create or maintain a chain of mystical effects.
+- Adept **Special**. The troll singer suffers no permanent corruption from learning troll songs at the adept level. Additionally, the adept may re-roll one success test when trying to influence or affect a target’s mind, also when creating or maintaining a chain of such mystical effects.
+- Master **Special**. The troll singer suffers no permanent corruption from learning troll songs at the master level. The master may re-roll every success test when trying to influence or affect a target’s mind, also when creating or maintaining a chain of such mystical effects

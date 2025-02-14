@@ -1,0 +1,1 @@
+Experience is awarded by the Game Master after a completed adventure. Experience is traded in for higher levels in the character’s abilities, or used to purchase new ones. Purchasing a new ability at novice level costs 10 Experience, to increase from novice to the adept level costs 20 Experience and increasing from adept to master costs 30 Experience.

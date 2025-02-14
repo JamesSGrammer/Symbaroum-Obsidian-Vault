@@ -1,0 +1,4 @@
+**Price**: 250 thaler +50 per [[Breaching Pot]]
+**Damage**: 1D12
+**Quality**: [[Wrecking]] or Burning, [[Area Effect]] (radius), [[Unwieldy]]
+Ballistic devices have long been employed in Alberetor’s many wars, and most frequently used, then and now, is the catapult. Compared to its bigger cousin, the trebuchet, it is relatively easy to transport but still very effective against both structures and troops. It takes someone with the ability Siege Expert to load, aim and fire a catapult; it can be loaded with boulders or with breaching pots, the former crushing buildings and the latter more effective against weaker but flammable targets, including hostile troop formations on the field of battle.

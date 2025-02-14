@@ -1,0 +1,1 @@
+The character has well-tuned senses for spotting and following tracks, both below ground and on the surface. He or she gets a second chance to pass all Vigilant tests when trying to follow a trail or find the way to, or back from, a place

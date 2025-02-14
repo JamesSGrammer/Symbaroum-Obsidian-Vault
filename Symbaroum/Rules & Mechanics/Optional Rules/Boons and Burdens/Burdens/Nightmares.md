@@ -1,0 +1,1 @@
+The character is haunted by nightmares each and every night, possibly because of something he or she has experienced, or for more abstruse reasons, such as an ominous omen or the consequence of a family curse. Each night, the character must pass a Resolute test in order to heal naturally, or no healing will occur that day. Other forms of healing are not affected.

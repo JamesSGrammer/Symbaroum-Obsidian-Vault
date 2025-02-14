@@ -1,0 +1,8 @@
+If you want to eat like a true barbarian you should head to Odovakar, at least according to the loyal guests at the tavern and the owners themselves, the barbarian siblings Verama and Melkor. Here you order tender slices of barbecued meat, steaming bowls of stewed root vegetables or other dishes flavored with forest spices and truffles. A specialty is the puff pastry covered, sweet-spicy mushroom pies originating from the owners’ clan Odaiova. These pies are preferably eaten according to the clan custom: eat first, drink later – a challenge for anyone who is not used to the burning hot dishes of the Odavs. Just like all other barbarian-owned establishments, Odovakar is the target of everything from scorn and derision to pure vandalism. The guilty parties often belong to one of two groups: they are either treasure hunters with scars after encounters with barbarians, or the type of fanatical Prios followers who regard anything barbarian as an aspect of Davokar’s wildness and evil. Mayor Nightpitch has made it clear: all who have been allowed to live inside the palisade are first and foremost to be regarded as residents of the Hold, wherever they come from. On the other hand, such statements are hardly any comfort to the relatives and friends of all those who have been banned or even incarcerated because of their, according to the relatives, reasonable actions.
+
+Sweet-Spicy Mushroom pie 4 shillings 
+Barbecued young-boar with beats 6 shillings 
+Fiery Root Stew 4 shillings 
+Tankard of Zarekean Blackbrew 1 shilling 
+Can of Spring Water 3 ortegs 
+Truffle buttered Biscuit 5 ortegs

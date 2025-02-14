@@ -1,0 +1,10 @@
+The mystics called Staff Mages have gotten their epithet from the rune covered staffs they always carry. A rune staff is an expression of the staff mage’s strength as well as a powerful weapon – something that has led to some wizards of Ordo Magica calling them by degrading names like “Wand-throwers” or “Broomsticks.” To the staff mage, the staff is an extension of his or her soul and to experienced staff mages it may sometimes be difficult to tell where the mage ends and the staff begins; they are part of the same whole. Whatever you call them, the staff mages are said to descend from an order of warrior monks, tasked with protecting Symbaroum’s last emperor. After the fall of Symbaroum, they withdrew to their castle deep inside Davokar. It was not until recent times that they became known to the people of the south; before that they only sought new recruits among the northern barbarian clans – individuals suited for an ascetic life in the shadow of death. Many of the potentials tended to be changelings. With the darkness spreading through Davokar, the staff mages have expanded their area of search to include the southerners and their realm. Hence, the plainly dressed warrior monks with their characteristic rune staffs can sometimes be seen visiting Ambria’s duchies and courts, hunting for novices and allies in the fight against the horrors haunting the ruins of Symbaroum.
+
+---
+- **Important Attributes**: [[Resolute]] 13+, [[Cunning]] 11+
+- **Suggested Race**: Barbarian or [[Changeling]].
+- **Required Abilities**: [[Loremaster]], [[Mystical Power]] (optional), [[Polearm Mastery]], [[Staff Fighting]]
+- **Other Requirements**: Permanent Corruption 3 or less
+- **Unique Abilities**: [[Mystical Power]] ([[Staff Projectile]]), [[Staff Magic]], [[Ritualist]] ([[Blood Storm]] and [[Quake]])
+- **Suggested Boons**: [[Archivist]], [[Bushcraft]], [[Commanding Voice]], [[Enduring March]], [[Horrifying]], [[Servant]]
+- **Suggested Burdens**: [[Code of Honor]], [[Protégé]]

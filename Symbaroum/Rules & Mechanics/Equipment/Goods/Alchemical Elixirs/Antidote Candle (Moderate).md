@@ -1,0 +1,2 @@
+**Price**: 9 thaler
+When lit, this candle emits fumes that work as an antidote on all around it. A weak antidote candle affects every poisoned creature in the vicinity and reduces the effect of ongoing poisons by one level – a strong poison becomes moderate, a moderate weak and a weak is neutralized. **A moderate antidote candle does the same, but with a two level reduction: a strong poison becomes weak while moderate and weak ones are neutralized.** Note that this does not affect damage already suffered.

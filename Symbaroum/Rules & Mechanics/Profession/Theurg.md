@@ -1,0 +1,4 @@
+You are a theurg, a priest with mystical powers. Your faith in the Lawgiver is unwavering: Prios is the sun and the light of the soul, the One who saved mankind from the bondage of the Old Gods, the creator of the world and protector of all life. From this pure spring flows extraordinary power. Your mystical knowledge would have been aimless and dangerous without your faith as a compass and foundation, as is often shown when godless Mystics wield their powers.
+- **Important Attributes**: [[Resolute]] 13+, [[Cunning]] or [[Vigilant]] 11+ 
+- **Suggested race**: Ambrian 
+- **Appropriate abilities**: [[Medicus]], [[Mystical Power]], [[Ritualist]], [[Theurgy]]

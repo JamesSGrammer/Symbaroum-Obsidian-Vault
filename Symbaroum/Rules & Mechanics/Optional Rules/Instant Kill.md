@@ -1,0 +1,2 @@
+Gaming groups that wish to feel the wings of death more clearly may use the rule for instant kill: 
+The rules for dying are used as usual, except when a character is brought down to 0 Toughness by an attack that deals damage equal to or higher than the targets Pain Threshold. Such a powerful attack kills the target strait away; all the character can do is to mumble a couple of memorable last words.

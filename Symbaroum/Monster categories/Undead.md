@@ -1,0 +1,1 @@
+All manner of restless dead, such as ghosts and dragouls of any kind.

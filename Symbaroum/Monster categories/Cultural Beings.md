@@ -1,0 +1,1 @@
+Humans, elves, changelings, ogres, goblins and trolls, for example

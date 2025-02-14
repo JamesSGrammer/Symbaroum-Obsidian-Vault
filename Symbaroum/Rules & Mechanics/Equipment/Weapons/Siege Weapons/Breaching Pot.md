@@ -1,0 +1,4 @@
+**Price**: 100 thaler
+**Damage**: 1D12
+**Quality**: [[Wrecking]] (if buried) or [[Flaming]], [[Area Effect]] (radius)
+The breaching pot is a jar filled with volatile sub stances that explode when ignited or crushed. If the breaching pot has been buried close to a structure it has the quality [[Wrecking]]; if it detonates in open air, it has an [[Area Effect]] instead. Note that whoever sets off a breaching pot must use a fuse to avoid suffering from the effect. Anyone can use a breaching pot but only those with the ability [[Siege Expert]] or [[Pyrotechnics]] can do so without risking a catastrophic failure. See the rules on Alchemical Weapons on page 98. Breaching pots can also be used as ammunition for catapults, in which case they have an [[Area Effect]] on impact.

@@ -1,0 +1,1 @@
+The character has a tough body and a strong soul, meaning that his or her heart keeps beating when the hearts of others would give up. A player character with the boon Tough may always roll death tests with two dice, and choose to accept the most favorable outcome.

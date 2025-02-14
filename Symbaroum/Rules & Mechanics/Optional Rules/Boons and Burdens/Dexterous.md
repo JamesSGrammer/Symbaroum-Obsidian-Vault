@@ -1,0 +1,1 @@
+The character has unusually nimble fingers and gains a +1 bonus on all Discreet tests when trying to steal items or hide items he carries. Dexterous can be acquired multiple times, up to a maximum bonus of +3 on relevant tests.

@@ -1,0 +1,1 @@
+The character is used to carrying heavy loads. The basis for calculating his or her carrying capacity is Strong ×1.5. For information on carrying capacity, see Encumbrance on page 100.
