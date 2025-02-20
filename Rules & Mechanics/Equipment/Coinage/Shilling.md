@@ -1,0 +1,1 @@
+1 Shilling = 10 [[Orteg]]

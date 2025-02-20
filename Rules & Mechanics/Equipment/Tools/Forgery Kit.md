@@ -1,0 +1,2 @@
+**Price**: 10 [[Thaler]]
+Aside from a loupe, paper, parchment and a col lection of pens and ink, this package includes stamps, seals and pre-printed stationery from a long list of organizations, trading houses and similar. The kit gives the user a +1 bonus on all success tests when trying to fool someone with a forged document.

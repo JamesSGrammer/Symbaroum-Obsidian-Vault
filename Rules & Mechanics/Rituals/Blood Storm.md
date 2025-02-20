@@ -1,0 +1,5 @@
+**Tradition**: Only available to Staff Mages
+The staff mage binds a storm of blood in the rune staff, to be unleashed with a thrust into the ground. The storm rages over the area, with the mystic standing in its calm eye. The mystic and allies standing nearby are unaffected, as are any enemies within melee range. All further out are hit by the full effect of the Blood Storm.
+Those caught in the storm are blinded. Other than moving blindly, they must pass a Vigilant test each turn to be able to perform any actions. Even if they pass that test, they have a second chance to fail on all success tests.
+The Blood Storm also has a drowning effect; it actively aims for the mouth and nose, and penetrates into the lungs, dealing 1d4 damage each turn, ignoring Armor. The only way to stop this is to leave the area, enter into close combat, flee to some place outside, or take refuge within a windowless structure.
+The Blood Storm lasts until the mystic fails a Resolute test or loses concentration from being damaged, [Resolute –Damage].

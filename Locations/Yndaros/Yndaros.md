@@ -1,0 +1,3 @@
+The capital city of Ambria and seat of power of the current queen Korinthia.
+
+In these past 20 years the former capital city was recaptured from a barbarian clan in a swift threes day siege and has since undergone swift reconstruction at the cost of many lives both slaves and other wise. Rechristened as Yndaros in honor of queen Korinthia's late father Yndare. Yndaros is surrounded by fertile rolling hills and plains that are now used for growing crops and raising livestock.

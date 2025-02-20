@@ -1,0 +1,4 @@
+**Tradition**: Theurgy 
+Corruption is extra dreadful to theurgs, since it represents the foremost proof of the power of darkness. Most theurgs do their utmost to not be tainted by Corruption, and should they fail they can always learn the ritual called Purging Fire.
+When performing the ritual, the mystic prepares itself with song and prayers before climbing onto a burning pyre to cleanse its body of Corruption. For each turn the theurg stands in the fire, it suffers 1D6 damage, and if a [Resolute –Damage] test is passed, one (1) point of permanent Corruption is removed. If the test fails, the mystic throws itself from the pyre and the ritual is interrupted.
+Performing the ritual costs one (1) point of Experience, whether it is successful or not. The mystic cannot perform the ritual for someone else; only he or she who performs the ritual may benefit from the purifying effect.

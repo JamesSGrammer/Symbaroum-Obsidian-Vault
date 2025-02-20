@@ -1,0 +1,2 @@
+**Tradition**: Only available to Pyromancers
+The advanced version of the ritual [[Flaming Servant]] allows the Pyromancer to have two flaming servants. These are handled like two separate, additional characters by the player, and they gain Experience from adventuring just like all flaming servants do.

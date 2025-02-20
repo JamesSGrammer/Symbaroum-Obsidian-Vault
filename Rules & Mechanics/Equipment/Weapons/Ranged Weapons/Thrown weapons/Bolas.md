@@ -1,0 +1,3 @@
+**Price**: 2 thaler
+**Quality**: Special
+A bolas is used in Davokar when someone wants to capture the prey alive; or in order to slow down a target before moving in for the kill. The bolas is made of two or more weights tied together with ropes. It is aimed at the target’s legs or arms in order to hinder movement. Normally, it is thrown at the legs and the attack test is [Accurate←Quick]; if the test succeeds, the target cannot move. It is harder to hit the arms of the target – this requires a passed [Accurate←Quick+3] and if successful the target has a second chance to fail all success test involving the use of the arms. Removing the bolas counts as a combat action and requires a passed *[[Quick]]* test.

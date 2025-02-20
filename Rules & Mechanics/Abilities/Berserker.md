@@ -1,0 +1,6 @@
+The feared barbarian warriors of Davokar have developed the practice of working themselves into a berserker frenzy before battle. By letting the repressed anger of the heart strengthen its limbs, the character can unleash a fuming rage that, if channeled correctly, might determine which side will emerge victorious from the battle.
+
+---
+- Novice **Free**. As a Free Action, the character may enter into a murderous frenzy to solely focus on hurting the enemy, dealing 1D6 extra damage when fighting in melee combat. The downside of this frenzy is that the character cannot defend itself properly. The attribute on which Defense is based, is considered to be 5 when calculating Defense.
+- Adept **Reaction**. The rage is like armor to the character. He or she ignores 1D4 damage from each hit suffered while in a berserker rage.
+- Master **Free**. The character has managed to harness its rage without losing any of its power. The character can utilize this capacity to both deal and ignore extra damage, while still being able to defend itself as normal.

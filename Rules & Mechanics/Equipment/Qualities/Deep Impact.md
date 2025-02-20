@@ -1,0 +1,1 @@
+The weapon has qualities that makes it even more deadly. Maybe its blade can pierce armor more easily or the weapon itself is so massive that it gets extra crushing power. Either way, the weapon deals +1 extra damage.

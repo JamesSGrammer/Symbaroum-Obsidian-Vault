@@ -1,0 +1,21 @@
+The world of Symbaroum is vast and marvelous, and many are the mystic traditions that have come and gone throughout history. Aside from the more widespread traditions, there are more obscure ones rooted in the forest – the Symbolists who supersede the witches in authority within Clan Vajvod, the ascetic Staff Mages deep inside Davokar and the Troll Singers, common among trolls and elves. Then there are the Artifact Crafters, mystics who instill power into artifacts of the lower order, rather than casting spells or performing rituals.
+It should also be noted that there are subcultures within the established traditions, here called Specializations. The witches have their Paths, the wizards their Schools, the theurgs two Roads and sorcerers can focus on a Domain.
+Amongst the witches there are those who devote themselves to walking only one of the paths, referred to as Blood Waders, Green Weavers or Spiritualists. In the wizardry tradition there has long existed three currents focused on the mysteries of fire, the senses and the will. Schools have formed around these mysteries, known as Pyromancy, Illusionism and Mentalism. A wizard is not required to choose a school but it is considered a merit to do so. Actually, in the larger chapters of Ordo Magica, where the competition for power and influence is most intense, membership in one of the schools can prove valuable as it may give access to benevolent colleagues and mentors.
+The theurgs of the Law Giver are faced with a different question: are you meant to be a combat ant of darkness or a caretaker of the light? Not all theurgs chose one or the other, instead balancing these contradictory perspectives all their lives. However, most take a stand and accept their purpose knowing that other champions of the light will make a different choice and see that the balance of faith is maintained.
+Sorcery is likely as old as the oldest of the other traditions. Its representatives usually have to operate in secret, which is why they have a hard time communicating and sharing their knowledge with each other. In spite of this, two distinct under currents have developed in the form of the Death Mages, commonly known as Necromancers, and the abominable Demonologists who subdue and bargain with abominations and other monstrosities from the Yonderworld.
+All these specializations count as professions, meaning that they require more from their practitioners than other occupations do, but also give access to unique abilities. Irrespective of path, school, road or domain, all mystics are grounded in the will to understand and control their surroundings – a dream made more reachable by the archetypical ability [[Strong Gift]].
+
+### Mystics and The Races
+Of the new races introduced in the Advanced Player’s Guide, primarily elves, trolls and the undead are associated with mystical powers; Witchcraft and Troll Singing is common among elves and trolls, and the grim fate of the undead may very well have been caused by the individual’s own mystical practices. Furthermore, the trolls have their renowned artifact crafters and blacksmiths, and also abducted humans sometimes master these arts, trained by trolls who have seen fit to help their old allies, the elves.
+
+### Mystic Abilities
+The following abilities include those listed in both the Core Rulebook and the Advanced Player’s Guide, sorted according to attributes when relevant.
+- **Archetypical Ability**: [[Strong Gift]] (three other abilities from below are required for this ability to be available)
+- **Accurate**: Natural Warrior, [[Polearm Mastery]]
+- **Cunning**: [[Alchemy]], [[Beast Lore]], [[Blacksmith]], [[Loremaster]], [[Medicus]]
+- **Persuasive**: [[Dominate]], [[Leader]]
+- **Quick**: [[Acrobatics]]
+- **Resolute**: [[Mystical Power]], [[Steadfast]]
+- **Strong**: [[Steadfast]]
+- **Vigilant**: [[Sixth Sense]], [[Witchsight]]
+- **General**: [[HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Abilities/Berserker]], [[Exceptional Attribute]], [[Recovery]], [[Ritualist]], [[Staff Magic]], [[Symbolism]], [[HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Abilities/Theurgy]], [[Troll Singing]], [[Witchcraft]], [[Wizardry]]

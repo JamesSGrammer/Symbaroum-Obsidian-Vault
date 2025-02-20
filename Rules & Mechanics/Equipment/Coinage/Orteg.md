@@ -1,0 +1,1 @@
+Is the lowers base coinage of the realm used for trading

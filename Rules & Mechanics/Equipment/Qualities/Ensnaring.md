@@ -1,0 +1,3 @@
+The weapon can be used to snare a target, which is done with a passed [Accurate←Quick] test. An ensnared target cannot move and gets a second chance to fail all success tests. Every attempt to get free requires spending a combat action; this forces the attacker to test [Accurate←Quick] again in order to keep the target in check.
+Ensnaring melee weapons can be used to try to knock a target prone. The attempt counts as a com bat action and requires a passed [Strong←Strong] to succeed. A fallen target cannot get up until it has been freed from the ensnaring effect.
+Also, note that an Ensnaring weapon may be used with the ability Ensnare to perform more advanced maneuvers (see page 64 of the Advanced Guide).

@@ -1,0 +1,7 @@
+**Only available to Rogues** 
+Rogues do not have much in common, besides that they all are survivalists – either because they are quite fond of being alive or in order for them to keep striving for their goals. This will to stay alive has resulted in the development of various ways to avoid being damaged
+
+---
+- Novice **Reaction**. In situations when the character suffers from an effect which may result in full or half damage (for instance from alchemical grenades and Brimstone Cas cade), the character suffers half damage instead of full, and no damage instead of half. As an example, if hit by a Brimstone Cascade that normally deals 1D12 with a hit and 1D6 with a miss, this is transformed into 1D6 with a hit and no damage at all with a miss
+- Adept **Reaction**. The rogue avoids the enemy’s melee attack and dances around to its back; with a passed Defense test, the rogue and the enemy switch places, if the player wishes. This means that the rogue gets away from being flanked without suffering a Free Attack, and also that the enemy ends up in a flanked position if there was an ally standing next to the rogue.
+- Master **Free**. The expert rogue’s reflexes are so finely tuned that he or she ignores the usual turn order and always acts first; only others with this ability and a higher value in Quick or Vigilant gets to go before the rogue.

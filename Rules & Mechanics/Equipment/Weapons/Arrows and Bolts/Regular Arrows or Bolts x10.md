@@ -1,0 +1,1 @@
+**Price**: 1 [[Thaler]]

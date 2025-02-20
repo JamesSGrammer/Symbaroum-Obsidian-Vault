@@ -1,0 +1,3 @@
+How Much do You See of the Yonderworld?
+
+The creature who, willingly or not, is thrown into the Yonderworld finds itself in a flowing wasteland. The ground is covered in ashes and even the air is full of whirling soot flakes that feel glowing hot against the skin. If unlucky, the creature lands in the lap of some daemonic abomination; otherwise, such beings can be seen in the distance or heard howling from hunger.

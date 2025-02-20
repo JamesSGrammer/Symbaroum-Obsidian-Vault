@@ -1,0 +1,1 @@
+Experience can be rewarded more specifically, instead of using the standard model that allows players to spend their Experiences as they see fit. Specific Experience means that the player can only spend Experience on abilities that were used during the adventure, or to buy new ones.

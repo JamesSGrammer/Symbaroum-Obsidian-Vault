@@ -1,0 +1,2 @@
+**Price**: 10 [[Thaler]]
+Blood wading witches tend to identify with the beasts of the wild, a sentiment embodied by the wearing of animal masks. Every animal mask with mystical properties symbolizes an animal and gives a +1 bonus on an attribute associated with that animal – *[[Discreet]]*, *[[Quick]]*, *[[Cunning]]*, *[[Strong]]* or *[[Vigilant]]*.

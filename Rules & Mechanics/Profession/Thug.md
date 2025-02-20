@@ -1,0 +1,4 @@
+The eastern districts of Yndaros are a wilderness as dangerous as Davokar, and just as rewarding for those who know how to harvest its fruits. You grew up on streets whose gangs have taught you the art of making a profit from others’ hard work, right under the noses of the city watch. Other thugs rise through the ranks by becoming employed by barons or counts, free to act as ruffians and enforcers without being bothered by the Queen’s watchmen.
+- **Important Attributes**: [[Quick]] 13+, [[Cunning]] 11+ 
+- **Suggested race**: [[Human]], [[Ogre]] or [[Goblin]]
+- **Appropriate abilities**: [[Acrobatics]], [[Poisoner]], [[Strangler]], [[Twin Attack]]

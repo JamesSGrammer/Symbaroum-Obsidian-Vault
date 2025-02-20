@@ -1,0 +1,1 @@
+Corruption Threshold = Resolute/2 (rounded up)

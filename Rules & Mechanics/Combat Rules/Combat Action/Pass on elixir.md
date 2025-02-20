@@ -1,0 +1,1 @@
+To use an elixir on an ally or its equipment.

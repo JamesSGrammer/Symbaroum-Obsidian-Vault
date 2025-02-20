@@ -1,0 +1,2 @@
+**Price**: 10 [[Thaler]]
+Make-up, wigs and wax for altering facial features is included in the kit, together with an array of basic clothes of local significance. The kit gives a +1 bonus on all success tests when trying to fool someone with a disguise.

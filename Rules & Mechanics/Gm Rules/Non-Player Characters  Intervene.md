@@ -1,0 +1,4 @@
+There are two ways to handle situations where non-player characters fight on the same side as the player characters:
+1: Give them to a player and let him or her control the NPC(s) for the duration of the scene, or
+2: handle them yourself, summarily.
+The Game Master does not have to roll any dice in the latter case; he or she simply describes what the character does and what happens. The effect of their attacks can be estimated, just like how well they can withstand hits and so on. The important thing is to not play them actively, since the Game Master’s attention should be directed towards the ongoing scene and the story in general.

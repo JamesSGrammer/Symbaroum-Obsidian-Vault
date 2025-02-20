@@ -1,0 +1,6 @@
+From the deep soils and wild spirits of Davokar comes the tradition of witchcraft. For generations, its teachings have been passed on to witches who, alongside the chieftains, have led the people of the forests through mishaps and triumphs alike. Surely, it is the primal powers of witchcraft that enables the barbarian clans to live within Davokar.
+
+---
+- Novice **Special**. The witch has learned the teachings of witchcraft and how to with stand its darker elements. The witch no longer suffers any permanent Corruption from learning powers at novice level belonging to the Witchcraft tradition, nor when learning any of its rituals. Despite this, the character still suffers the temporary Corruption that follows when using the powers and rituals of Witchcraft.
+- Adept **Special**. The witch suffers no Corruption from learning the powers of Witchcraft at adept level. The adept witch has also learned to bind the powers and rituals of the craft in earth, blood and spirit so that they only give one (1) temporary Corruption when used.
+- Master **Special**. The witch suffers no Corruption from learning the powers of Witchcraft at the master level.

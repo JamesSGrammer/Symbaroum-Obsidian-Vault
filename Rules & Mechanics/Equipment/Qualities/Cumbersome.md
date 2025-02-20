@@ -1,0 +1,1 @@
+It is difficult to move around in this armor and its negative effect on Defense is therefore one point higher than usual; a Cumbersome light armor has a penalty of (−3), a medium of (−4) and a heavy of (−5)

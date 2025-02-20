@@ -1,0 +1,2 @@
+**Tradition**: Symbolism 
+The mystic carves power runes into the skin of a creature, giving the target the ability Rune Tattoo. The tattoo must then be paid for by “offering” 10 Experience or permanent corruption; it is possible to combine these, and pay part of the cost in Experience and the rest in corruption. The target can pay in full or the symbolist can contribute with the whole or a part of the cost.

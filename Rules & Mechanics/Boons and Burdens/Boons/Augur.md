@@ -1,0 +1,1 @@
+The character has always seen signs others have missed, and has a +1 bonus on tests for rituals deal ing with fate or hidden information: Fortune-telling, Holy Smoke and Oracle. Augur can be acquired multiple times, up to a maximum bonus of +3 on relevant tests.

@@ -1,0 +1,1 @@
+The character can speak to creatures from the monster category Beasts. Beasts have their limitations but can answer questions about which creatures are in, or have traveled through, an area, and also estimate their numbers (one, two or many). The beasts do not perform any services; they talk to the character as if they were equals.

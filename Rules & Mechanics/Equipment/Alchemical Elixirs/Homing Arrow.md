@@ -1,0 +1,2 @@
+**Price**: 2 [[Thaler]]
+The alchemist marinates an arrow in homing essences, thereby creating an arrow that flies past other combatants, i.e. it does not require clear line of sight. However, the archer must see some part of the target and must roll a normal attack test in order to successfully hit.

@@ -1,0 +1,2 @@
+You are allowed to attempt to defend yourself against any attacks that your character is aware of. The character’s *Defense* is usually based on *[[Quick]]*, then modified by such things as armor qualities and whether or not the character carries a shield.
+**When a character is attacked, defense is tested as [Defense←Accurate]. If the test is successful the character has avoided the attack by either parrying or dodging it.** If this test fails, the attack hits and deals damage if the weapon’s damage value is higher than the outcome of the roll for the character’s Armor.

@@ -1,0 +1,8 @@
+That symbols and signs have power is well-known and made use of in most mystical traditions, at least in rituals. Pure Symbolism is a tradition that almost solely builds its power on symbols and signs. It came to Davokar with mystics from the east who, after having fled across the Ravens, found a sanctuary in the river lands that later became the territory of Clan Vajvod. Ambrian scholars suspect that Symbolism – strange, powerful and decadent – is a vital clue to understanding why the barbarians of eastern Davokar are in disagreement with Karvosti and its authorities, the Huldra and the High Chieftain. It may lead to an explanation as to why the Vajvods, for cultural and philosophical reasons, distance themselves from Karvosti, and at the same time, are more open to outsiders than other clans, Clan Odaiova excluded. Rumor has it that Vajvod’s Clan Chieftain, Zoltar the Old, has not a witch but a symbolist by his side, likely one trained at the Azure Temple in the heart of the river lands.
+
+---
+- **Important Attributes**: [[Resolute]] 13+, [[Cunning]] 11+
+- **Suggested Race**: Barbarian (Clan Vajvod), [[Goblin]], [[Troll]]
+- **Appropriate Abilities**: [[Mystical Power]] (usually [[Protective Runes]]), [[Ritualist]] (usually [[Carve Rune Tattoo]]), [[Symbolism]]
+- **Suggested Boons**: [[Archivist]], [[Augur]], [[Cartographer]], [[Contacts]], [[Heirloom]]
+- **Suggested Burdens**: [[Elderly]], [[Mystical Mark]]

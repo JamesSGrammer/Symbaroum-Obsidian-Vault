@@ -1,0 +1,7 @@
+[[Healing Spider]]
+[[Meeting Stone]]
+[[Order Medallion]]
+[[Pest Mask]] 
+[[Ritual Codex]]
+[[Spell Scroll]]
+[[Toad Guard]]

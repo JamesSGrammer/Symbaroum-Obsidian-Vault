@@ -1,0 +1,2 @@
+**Price**: 10 [[Thaler]]
+Green weaving witches often cover their faces with a mask of bark, as a symbol of their connection to nature. Many of these masks are infused with power and provide one re-roll per scene on a test related to plants and anything growing, for example [[Thorn Cloak]] and [[Entangling Vines]]. The re-roll may be used for tests to activate such powers or to resist the effect of such powers.

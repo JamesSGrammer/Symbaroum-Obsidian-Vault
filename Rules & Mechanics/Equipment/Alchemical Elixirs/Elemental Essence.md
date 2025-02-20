@@ -1,0 +1,2 @@
+**Price**: 2 [[Thaler]]
+When applying a dose of elemental essence, either one weapon, four throwing weapons or all the arrows/bolts in a quiver deal 1D4 elemental damage for the duration of a scene. The alchemist must choose which element to prepare: fire, cold, acid or lightning.

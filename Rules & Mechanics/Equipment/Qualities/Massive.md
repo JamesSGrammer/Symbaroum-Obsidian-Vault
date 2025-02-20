@@ -1,0 +1,1 @@
+The weapon makes other weapons look puny in comparison. The wielder has a second chance at the damage test; the damage die is rolled twice and the higher of the two outcomes is used. Note that this only applies to the damage die of the weapon, not of additional dice from abilities, powers and elixirs.

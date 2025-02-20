@@ -1,0 +1,1 @@
+To sneak up on an enemy or prepare an ambush is an active Action and requires a successful [Discreet←Vigilant] test. Attacking an enemy that is unaware of the incoming attack allows the attacker to make a Free Attack in the first turn of combat. Then the combat follows the usual turn order, based on the combatants *[[Quick]]*.

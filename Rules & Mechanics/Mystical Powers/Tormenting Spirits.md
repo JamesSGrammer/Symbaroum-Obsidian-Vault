@@ -1,0 +1,8 @@
+**Tradition**: Only available to Spiritualists and Necromancers 
+**Material**: A piece of a burial gown
+The world is old and many spirits linger from days past; nature spirits in dirt and water, or dead heroes who are yet to pass over to the other side. Some mystics can wake spirits to life and make them attack their enemies. The enemies are beset with these fiery spirits who tear at their clothes, equipment, hair and flesh. At best, the target cannot act; at worst , the target is driven mad or even dies from the attacks.
+
+---
+- Novice **Active**. The mystic calls spirits to his or her aid, and these transparent shapes attack an enemy. The target automatically fails all tests for concentration while using mystical powers; all other tests have a second chance to fail. The mystic must pass a Resolute test each turn in order for the spirits to continue their attacks.
+- Adept **Active**. The mystic may demand more substantial help from the spirits. They attack ferociously and deal damage to Resolute, adding to the effect described at the novice level. The damage dealt is 1D4 per turn, ignoring armor. If Resolute is reduced to zero the target dies, presuming they are not allowed to roll death tests (like characters). The latter instead becomes temporarily insane – catatonic, crying or otherwise unable to act – while rolling their death tests. The Resolute damage heals like other dam ages. The mystic must pass a Resolute test each turn in order for the spirits to continue their attack. Also, if the mystic takes damage, concentration will be broken if failing a [Resolute –Damage] test.
+- Master **Active**. Like adept, but the spirit attacks deal 1D6 damage to Resolute.

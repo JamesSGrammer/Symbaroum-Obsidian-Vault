@@ -1,0 +1,1 @@
+The character gets a +1 bonus on all Cunning tests when gambling or playing strategy games like Prios’ Sun. Also, he or she gets +1 on Vigilant to expose cheats. Gambler can be combined with Cheat for added bonuses. Gambler can be acquired multiple times, up to a maximum bonus of +3 on relevant tests.

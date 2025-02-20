@@ -1,0 +1,2 @@
+**Price**: 10 [[Thaler]]
+The illusionists of Ordo Magica often use a prism to describe how the perception of reality may be broken down and understood. Some of these crystals are filled with so much suggestive energies that they provide a +1 bonus to all tests related to the creation of illusions.

@@ -1,0 +1,1 @@
+Ancient forging procedures make each hit potentially poisonous. When an attack damages the target it also suffers 1d4 damage for 1d4 turns from poison.

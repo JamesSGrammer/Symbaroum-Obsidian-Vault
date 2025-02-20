@@ -1,0 +1,29 @@
+**Race** Human (barbarian)
+**Resistance** Ordinary 
+**Traits** [[Bushcraft]]
+Accurate 15 (−5), Cunning 5 (+5), Discreet 10 (0), Persuasive 7 (+3), Quick 13 (−3), Resolute 9 (+1), Strong 11 (−1), Vigilant 10 (0) 
+**Abilities** [[Acrobatics]] (novice), [[Shield Fighter]] (adept), [[Steel Throw]] (novice)
+**Weapons** Axe 5, shield bash 2 (chance to knock-down), throwing spear 4 
+**Armor** Bear pelt 2 (Impeding) 
+**Defense** −3 (shield) 
+**Toughness** 11 
+**Pain Threshold** 6 
+**Equipment** Hunting traps and fishing gear, wooden figurine (the clan’s spirit guardian), 3 throwing spears, 1D10 ortegs 
+**Shadow** Blooming green (corruption: 0) 
+**Tactics**: Village warriors are used to skirmish fighting and start by throwing their spears before gripping their axes. If the odds are declining, they withdraw from melee and back away while throw ing additional spears at the enemy.
+
+| **Race**           | Human (barbarian)                                                   |
+| ------------------ | ------------------------------------------------------------------- |
+| **Resistance**     | Ordinary                                                            |
+| **Traits**         | [[Bushcraft]]                                                       |
+| **Attributes**     | Accurate 15 (−5), Cunning 5 (+5), Discreet 10 (0), Persuasive 7 (+3), |
+|                    | Quick 13 (−3), Resolute 9 (+1), Strong 11 (−1), Vigilant 10 (0)       |
+| **Abilities**      | [[Acrobatics]] (novice), [[Shield Fighter]] (adept), [[Steel Throw]] (novice) |
+| **Weapons**        | Axe 5, shield bash 2 (chance to knock-down), throwing spear 4        |
+| **Armor**          | Bear pelt 2 (Impeding)                                              |
+| **Defense**        | −3 (shield)                                                         |
+| **Toughness**      | 11                                                                  |
+| **Pain Threshold** | 6                                                                   |
+| **Equipment**      | Hunting traps and fishing gear, wooden figurine (the clan’s spirit guardian), 3 throwing spears, 1D10 ortegs |
+| **Shadow**         | Blooming green (corruption: 0)                                      |
+| **Tactics**        | Village warriors are used to skirmish fighting and start by throwing their spears before gripping their axes. If the odds are declining, they withdraw from melee and back away while throwing additional spears at the enemy. |

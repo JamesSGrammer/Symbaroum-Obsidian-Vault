@@ -1,0 +1,13 @@
+**Race** Spider
+**Resistance** Ordinary 
+**Traits** [[Natural Weapon]] (I), [[Poisonous]] (I), [[Web]] (I)
+Accurate 13 (−3), Cunning 10 (0), Discreet 11 (−1), Persuasive 5 (+5), Quick 15 (−5), Resolute 7 (+3), Strong 9 (+1), Vigilant 10 (0) 
+**Abilities** [[Acrobatics]] (novice) 
+**Weapons** Bite 3, poison 2 for 2 turns 
+**Armor** None 
+**Defense** −5 
+**Toughness** 10
+**Pain Threshold** 5 
+**Equipment** None, but their nets may contain interesting objects from earlier victims (value: 1 thaler per tricklesting) 
+**Shadow** Greenish gray, like the beard lichens of the forest (corruption: 2) 
+**Tactics**: The tricklesting uses its nets to capture prey animals, then dances around the target to flank it and kill it with bites. As the first one goes down, it continues to the next, and the next…

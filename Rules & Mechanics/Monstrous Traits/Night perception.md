@@ -1,0 +1,1 @@
+The creature has been gifted with abilities making it able to perceive its surroundings using sound waves – it emits sound pulses that bounce off nearby objects and return to the creature that then can form an image of what the surroundings look like. Because of this, the creature can act normally even in complete darkness.

@@ -1,0 +1,1 @@
+Toughness = Strong (though never below 10

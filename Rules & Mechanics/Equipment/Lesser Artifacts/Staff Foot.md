@@ -1,0 +1,2 @@
+**Price**: 10 [[Thaler]]
+A staff foot forged with strengthening spells can give the staff of a staff mage extra power when used as a weapon. The artifact is attached to the staff and gives a +1 bonus on the effect tests of all melee or ranged attacks, and on all powers which directly use the staff as a weapon. Even if this artifact most often is attached to a rune staff, it may be attached to an ordinary wooden staff with the same effect.

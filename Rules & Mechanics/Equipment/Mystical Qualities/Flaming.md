@@ -1,0 +1,1 @@
+The weapon glows and even sparks before bursting into flames when actively used. The weapon deals damage as usual, but the target starts to burn – dealing 1d4 damage for 1d4 turns, starting the turn after the initial hit. The fire is extinguished if the target uses a whole turn to roll on the ground and passes a *[[Quick]]* test.

@@ -1,0 +1,1 @@
+The character is wanted for a serious crime, either justly or falsely accused. The effect is that he or she risks get ting recognized and hunted. Once per adventure, the character must pass a Discreet test to avoid being identified.

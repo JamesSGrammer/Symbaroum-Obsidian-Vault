@@ -1,0 +1,2 @@
+**Price**: 4 [[Thaler]]
+A small spider figurine which is placed on an open wound, where it quickly covers itself and the wound in a web that heals 1d12 *Toughness* over the course of a day. The spider cannot heal damage from poison or other internal injuries. When done, the spider creeps up from the wound to be reused on new ones. The one treated by the healing spider suffers one point in temporary corruption.

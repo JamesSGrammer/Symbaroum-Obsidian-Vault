@@ -1,0 +1,3 @@
+**Tradition**: Theurgy
+The mystic anoints him- or herself with holy oils before a battle, thereby gaining the following: +10 temporary Toughness, +1d4 in protection in addition to any Armor worn, and +1d4 damage on all attacks. If the mystic is damaged, he or she first loses the temporary Toughness, before his or her own Toughness is affected.
+The downside is that the mystic cannot be healed and that all death tests automatically fail during the scene. The effect lasts for the duration of a scene.

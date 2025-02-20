@@ -1,0 +1,6 @@
+With nothing but presence, gaze and voice, strong personalities can force weaker minds to bend in the midst of a raging battle. The character is trained in this art of subduing combat. Among the gladiators of Yndaros, this is considered to be a particularly impressive way to win a battle, and it is even regarded as extremely honorable among the barbarian clans to overcome your enemy in such a manner. In social situations, this ability can also be used to scare someone into obedience and force secrets out of them.
+
+---
+- Novice **Passive**. The character can dominate and outmaneuver an enemy combatant by using its convincing personality. The character may use Persuasive instead of Accurate in melee combat.
+- Adept **Free**. The character can, as a Free Action and with a successful [Persuasive←Resolute] test, force an enemy to hesitate in melee combat. A hesitating enemy will not attack the character this turn. If possible, it attacks one of the character’s allies instead.
+- Master **Active**. The character can subdue an enemy with a passed [Persuasive←Resolute] test. A subdued enemy can be forced to stand down and negotiate, to flee from an ongoing battle (if possible), or surrender if it is impossible to flee. When already in com bat, the enemy must first be wounded by the character or by one of the character’s allies before it can be subdued.

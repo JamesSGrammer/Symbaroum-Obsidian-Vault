@@ -1,0 +1,2 @@
+**Price**: 2 [[Thaler]]
+A stone is loaded with an invitation to a specific person, who upon receiving and touching the artifact instinctively knows where the stone’s owner is waiting. Only a mystic (with at least one mystical power) can activate a meeting stone.

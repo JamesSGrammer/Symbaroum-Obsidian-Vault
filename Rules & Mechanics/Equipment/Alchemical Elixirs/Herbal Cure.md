@@ -1,0 +1,2 @@
+**Price**: 1 [[Thaler]]
+An herbal cure consists of an alchemical poultice coupled with bandages. It smells vile but heals 1 point of *Toughness*. The herbal cure has greater effect if used by a character with the [[Medicus]] ability.

@@ -1,0 +1,4 @@
+The most important Action that can be performed in a turn is the attack. It is with this Action that you character attacks its enemies and attempts to harm them with its weapon. The attack is preferably performed with an Active ability, if your character masters such a skill. Passive abilities always act together with active ones.
+**The attack is made with [Accurate←Defense]. Note that some abilities can allow you to attack using other Attributes besides *[[Accurate]]*, and calculate *Defense* using something else than *[[Quick]]*.**
+A Combat Action does not have to be an attack. To provide first aid to someone or to use any other active ability also counts as a Combat Action.
+A Combat Action can be replaced with an additional Movement Action, but not the opposite: a Movement Action cannot be replaced with an additional Combat Action.

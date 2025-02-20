@@ -1,0 +1,5 @@
+A character that falls from a high altitude suffers damage equal to the number of meters fallen. A successful Quick roll allows the character to land better, or even manage to break the fall, effectively reducing the damage: subtract 3 meters from the fall.
+Water or other soft substances provide some cushioning effect as well, subtracting another 5 meters from the fall. Armor protects as usual.
+
+---
+**Example:** The player characters cross a rope bridge that collapses. The fall is 20 meters, but the bottom of the ravine is covered with thick moss and pools of water. The Game Master subtract 5 meters from the fall, which gives an effective fall of 15 meters. One of the characters has Armor 1D6; the player tests Quick and fails. The character therefore suffers 15 −1D6 points of damage. Had the Quick test been successful the damage would have been 12 −1D6 instead.

@@ -1,0 +1,2 @@
+**Price**: 4 [[Thaler]]
+Drone Dew is a liquid elixir made from drone spores, also containing accelerants. A person who ingests a dose of the elixir immediately falls asleep if he or she does not pass a *Strong* test, and stays asleep for an hour or until suffering any damage. If the test is passed, the person is instead dazed, with the effect that he or she is limited to one action per turn and cannot use any active abilities for an hour.

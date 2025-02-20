@@ -1,0 +1,4 @@
+Fighting has been a way of life for you – for payment. The lords of Ambria often employ hired swords in their campaigns against the barbarians of Davokar, while the clan leaders of Davokar do the same in return. Merchants need guards, as do pilgrims. You may have fought for different masters over the years, but the key to your survival has always been your skill and an instinct for judging what battles can or cannot be won.\
+- **Important Attributes**: [[Strong]] 13+ 
+- **Suggested race**: [[Human]]
+- **Appropriate abilities**: [[Iron Fist]], [[Man-at-arms]], [[Polearm Mastery]], [[Shield Fighter]]

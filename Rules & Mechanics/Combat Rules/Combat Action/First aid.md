@@ -1,0 +1,1 @@
+To apply an herbal cure on a wounded or dying companion.

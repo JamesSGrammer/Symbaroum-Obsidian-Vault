@@ -1,0 +1,2 @@
+**Price**: 10 [[Thaler]]
+Weighted dice, marked cards and game pieces give the player character a +1 bonus on all success tests when gambling (see the boon *[[Cheat]]* on page 52 for risks on cheating at games).

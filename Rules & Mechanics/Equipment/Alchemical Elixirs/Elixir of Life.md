@@ -1,0 +1,2 @@
+**Price**: 6 [[Thaler]]
+Consuming an Elixir of Life gives the drinker regenerative powers that heal 1D6 points of *Toughness* during 1D6 turns, on the character's initiative. Sadly the character also suffers 1 temporary corruption for each turn the elixir is in effect.

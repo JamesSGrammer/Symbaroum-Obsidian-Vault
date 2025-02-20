@@ -1,0 +1,2 @@
+**Price**: 2 [[Thaler]]
+A moderate antidote lowers the effect of a poison by two degrees; a strong poison becomes weak, while both moderate and weak poisons are completely neutralized. The antidote does not affect any damage that a character has already suffered. Requires a passed Cunning test to take effect.

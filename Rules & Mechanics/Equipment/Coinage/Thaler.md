@@ -1,0 +1,1 @@
+1 Thaler = 10 [[Shilling]]

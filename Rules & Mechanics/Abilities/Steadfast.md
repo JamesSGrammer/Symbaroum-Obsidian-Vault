@@ -1,0 +1,6 @@
+Mental disciplines and stratagems for resisting improper influences have been developed among the ranks of the Templars and Black Cloaks. Also among Mystics there are individuals who study the art of resistance. The character has a mind as hard as steel, inspir ing it to fight on even against insurmountable odds. Mystics rarely succeed when trying to hurt or seize control of the character’s senses, and sometimes a truly steadfast character manages to defend itself mentally and even turn the magic back on the hostile mystic.
+
+---
+- Novice **Reaction**. The character can make a second attempt to succeed with a Strong or Resolute test when trying to break an ong oing physical effect from, for instance, traps or alchemical elixirs. This includes energies from mystical powers, as long as these are manifested physically in the forms of fire, acid or similar.
+- Adept **Reaction**. The character is unshakable, and can make a second attempt to shrug off ongoing powers that affects either its will or its senses.
+- Master **Reaction**. The psyche of the character strikes back against anyone who tries to affect it. Whenever the character is the victim of a mental attack (in other words, those attacks that are modified by Resolute) that fails, the attacker suffers 1D6 damage that ignores Armor.

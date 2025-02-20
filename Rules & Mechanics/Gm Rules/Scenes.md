@@ -1,0 +1,3 @@
+Scenes form the basis of gameplay and can be compared to scenes in a movie: one location, a couple of characters and something important that happens (a challenge). The duration of many abilities and powers lasts for an entire scene.
+Scenes can be started by both players and Game Masters – a Game Master may introduce the characters to a challenge and the players can have their characters perform actions which make the game world respond in a challenging way.
+For a situation to count as a scene, it has to include a challenge and, hence, an element of risk or cost to the player characters. The game mechanic for Experience relies on the number of scenes a player character survives.

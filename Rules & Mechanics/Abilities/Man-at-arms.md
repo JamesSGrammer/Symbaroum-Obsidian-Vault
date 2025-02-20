@@ -1,0 +1,6 @@
+A real warrior wears armor and is trained in how to move and fight while doing so. This is true among Ambrians and barbarians alike, even if the most heavily armored warriors usually are of Ambrian stock. No matter what the armor is made from, be it leather, steel or any other material, the Man-at-arms ability gives the character increased protection against hostile strikes and blows.
+
+---
+- Novice **Passive**. The character knows how to use its armor for maximum effect, which increases the armor’s Armor tier by one step: light armor protects 1D6, medium armor protects 1D8 and heavy armor protects 1D10.
+- Adept **Passive**. The character is used to wearing armor and can adapt his or hers actions to its limitations. The armor no longer has a negative effect on Quick or abilities based on Quick (including Defense). The Impeding quality of the armor still has a negative effect when using mystical powers.
+- Master **Reaction.** The character may roll against Quick to counteract effects from Abilities or equipment that make enemy attacks ignore or reduce its Armor value; if the test is successful the Armor protects as usual. Mystical powers that ignore Armor may not be blocked this way; they are not affected by the Man-at-arms ability.

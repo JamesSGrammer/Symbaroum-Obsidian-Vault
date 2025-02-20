@@ -1,0 +1,2 @@
+**Price**: 10 [[Thaler]]
+A special ornament at the top of the staff mage’s staff can provide extra focus. The staff head – often a beautiful stone encased in meteoric iron – gives a +1 bonus to all success tests that do not directly involve the staff as a weapon, as for instance [[Blood Storm]] and [[Sphere]].

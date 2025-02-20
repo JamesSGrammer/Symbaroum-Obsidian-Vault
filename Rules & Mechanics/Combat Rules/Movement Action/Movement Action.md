@@ -1,0 +1,9 @@
+- **I**. Move into melee: To move towards an enemy in order to attack. This gives an enemy with a Long weapon a Free Attack, but not if the attacker wields a Long weapon as well. 
+- **II**. To flank an enemy already engaged in melee with a combatant allied to the flanking person. This gives both flanking allies the Advantage against their enemy. 
+- **III**. Move around an enemy: A circular movement in order to reach another enemy combatant standing further away. This gives the bypassed enemy a Free Attack. 
+- **IV**. Disengage from melee combat: To withdraw from melee allows every engaged enemy combatant to perform a Free Attack. 
+- **V**. Create free line of sight: To Move in order to get an obscured enemy into your line of sight. 
+- **VI**. Draw weapon 
+- **VII**. Switch weapons: Sheath one weapon and draw another one. 
+- **VIII**. Stand up (requires a successful Quick test): Get back up on your feet after being knocked prone or other wise falling down. 
+- **IX**. Drink/apply elixir: To apply an elixir to either yourself or your equipment.

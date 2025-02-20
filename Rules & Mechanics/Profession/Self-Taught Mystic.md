@@ -1,0 +1,4 @@
+You are a self-taught mystic, excluded from the traditions, never accepted by your peers or completely uninterested in the narrow worldviews they offer. However, your freedom comes at a price: corruption is lurking around each corner and you are fair game to witch hunters and Black Cloaks. Whether you wander from village to village or hide in a bustling city, you probably earn your living by offering your services as an occult consultant or a finder of misplaced objects.
+- **Important Attributes**: [[Resolute]] 13+, [[Vigilant]] 11+ 
+- **Suggested race**: Ambrian or [[Changeling]]
+- **Appropriate abilities**: [[Mystical Power]] (any two), [[Ritualist]], [[Witchsight]]

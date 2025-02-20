@@ -1,0 +1,1 @@
+Defense = [Quick –Armor’s Impeding value]

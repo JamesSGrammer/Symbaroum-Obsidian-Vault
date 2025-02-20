@@ -1,0 +1,1 @@
+An attack with, or the use of, an active ability.

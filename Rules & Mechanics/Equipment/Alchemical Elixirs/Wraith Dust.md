@@ -1,0 +1,2 @@
+**Price**: 2 [[Thaler]]
+The wraith dust forces an incorporeal being (a creature with the monstrous trait [[Spirit Form]]) to take physical form for the duration of a scene. The dust must be thrown with a [Accurate←Defense] test; if hit the spirit takes damage as living creatures do.

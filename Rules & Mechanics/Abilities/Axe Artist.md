@@ -1,0 +1,6 @@
+By tradition, many warriors of barbarian origin carry axes into battle, and among these fighters special techniques have been developed – techniques which make full use of the axe’s potential. In the hands of the character, the axe is an effective tool of combat. The weapon used must be an axe of either heavy or single-handed model
+
+---
+- Novice **Active**. The first thing an axe artist learns is to strike with the short-end of the axe in order to induce distracting pain before a mightier blow. The short-end thrust deals 1D6 damage and stuns the enemy if the character passes a [Accurate←Resolute] test, meaning that the character gets to make an immediate Free Attack.
+- Adept **Active**. Next up is learning the powerful double-strike: to strike with one side of the axe and then follow up by striking a blow with the other. The character makes two at tacks in one combat action, both of them at one dice tier lower than normal (1D10=1D8).
+- Master **Passive**. The axe master returns to the heart of axe fighting, the mighty blow. Every hit with the axe deals +1D4 damage, limited to one hit per combat action

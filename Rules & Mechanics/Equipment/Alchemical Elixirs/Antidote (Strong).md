@@ -1,0 +1,2 @@
+**Price**: 3 [[Thaler]]
+A strong antidote lowers the effect of a poison by three degrees, which usually means that the poison is completely neutralized. The antidote does not affect any damage that a character has already suffered. Requires a passed Cunning test to take effect.

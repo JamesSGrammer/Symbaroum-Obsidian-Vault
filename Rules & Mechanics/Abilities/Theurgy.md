@@ -1,0 +1,6 @@
+Theurgy is the mystical tradition championed by the chosen priest mages of the Church of Prios. Theurgy is the doctrine of the inner flame, where the ember of the soul is seen as a reflection of the divine and life-giving light of the sun.
+
+---
+- Novice **Special**. The theurg no longer suffers permanent Corruption when learning powers at novice level belonging to the tradition of Theurgy, nor when learning its rituals. Despite this, the character still has no protection against the temporary Corruption that comes from using the powers and rituals of Theurgy.
+- Adept **Special**. The theurg no longer suffers permanent Corruption when learning powers at adept level belonging to the tradition of Theurgy. The adept theurg has also learned to rest the powers and rituals of Theurgy on a foundation of faith so that the theurg now only suffers one (1) temporary Corruption when casting them.
+- Master **Special**. The theurg has reached a higher understanding of the essence of its holy powers, and therefore heals an additional 1D4 when using healing and holy powers, including those that harm abominations and the undead. Adding to this, the theurg suffers no permanent Corruption when learning powers at master level belonging to the tradition of Theurgy.

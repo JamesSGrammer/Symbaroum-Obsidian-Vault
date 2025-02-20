@@ -1,0 +1,29 @@
+**Race** Human (Ambrian)
+**Resistance** Ordinary 
+**Traits** [[Contacts]]
+Accurate 10 (0), Cunning 10 (0), Discreet 5 (+5), Persuasive 7 (+3), Quick 9 (+1), Resolute 15 (−5), Strong 11 (−1), Vigilant 13 (−3) 
+**Abilities** [[Beast Lore]] (novice), [[Ritualist]] (novice, [[Holy Smoke]]), [[Steadfast]] (adept) 
+**Weapons** Crossbow 5, sword 4 
+**Armor** Scalemail 3 (Impeding) 
+**Defense** +3 (shield) 
+**Toughness** 11 
+**Pain Threshold** 6 
+**Equipment** Book with prayers, tools for interrogations, incenses, 1D10 thaler 
+**Shadow** Silver with blackened spots (corruption: 3) 
+**Tactics**: The Black Cloak reveals abominations by the use of rituals, but if time is scarce he or she fires the crossbow and follows up with the sword. Better to slay an innocent than to see an abomination escape, such is the motto of a Black Cloak.
+
+| **Race**           | Human (Ambrian)                                                    |
+| ------------------ | ------------------------------------------------------------------ |
+| **Resistance**     | Ordinary                                                           |
+| **Traits**         | [[Contacts]]                                                       |
+| **Attributes**     | Accurate 10 (0), Cunning 10 (0), Discreet 5 (+5), Persuasive 7 (+3), |
+|                    | Quick 9 (+1), Resolute 15 (−5), Strong 11 (−1), Vigilant 13 (−3)     |
+| **Abilities**      | [[Beast Lore]] (novice), [[Ritualist]] (novice, [[Holy Smoke]]), [[Steadfast]] (adept) |
+| **Weapons**        | Crossbow 5, sword 4                                                |
+| **Armor**          | Scalemail 3 (Impeding)                                             |
+| **Defense**        | +3 (shield)                                                        |
+| **Toughness**      | 11                                                                 |
+| **Pain Threshold** | 6                                                                  |
+| **Equipment**      | Book with prayers, tools for interrogations, incenses, 1D10 thaler |
+| **Shadow**         | Silver with blackened spots (corruption: 3)                        |
+| **Tactics**        | The Black Cloak reveals abominations by the use of rituals, but if time is scarce, he or she fires the crossbow and follows up with the sword. Better to slay an innocent than to see an abomination escape, such is the motto of a Black Cloak. |
