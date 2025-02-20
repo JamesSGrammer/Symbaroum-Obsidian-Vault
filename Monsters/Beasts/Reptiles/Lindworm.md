@@ -1,13 +1,16 @@
-**Race** Reptiles
-**Resistance** Strong
-**Traits** [[Armored]] (III), [[Enthrall]] (III), [[Long-lived]], [[HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Monstrous Traits/Robust|Robust]] (III) 
-Accurate 7 (+3), Cunning 9 (+1), Discreet 5 (+5), Persuasive 11 (−1), Quick 10 (0), Resolute 15 (−5), Strong 13 (−3), Vigilant 10 (0) 
-**Abilities** [[Iron Fist]] (master), [[Natural Warrior]] (master) 
-**Weapons** Bite 14 (short), or 2 attacks at the same target with damage 12 and 8 
-**Armor** Scales 8 
-**Defense** +4 
-**Toughness** 13 
-**Pain Threshold** 7 
-**Equipment** None 
-**Shadow** Emerald green, like the leaves on an ancient oak, hypnotically rustling in the summer breeze (corruption: 0) 
-**Tactics**: The lindworm is old and sly and will not fight if it knows it cannot win, or if there is nothing to gain. It prefers to enthrall its victims to learn about them, thereby finding out which one is the strongest. After that, the serpent is not afraid to let its fangs end the discussion.
+
+| **Race**           | Reptiles                                                                                                                                                                                                                                                                                     |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Resistance**     | Strong                                                                                                                                                                                                                                                                                       |
+| **Traits**         | [[Armored]] (III), [[Enthrall]] (III), [[Long-lived]], [[HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Monstrous Traits/Robust\|Robust]] (III)                                                                                                                                               |
+| **Attributes**     | Accurate 7 (+3), Cunning 9 (+1), Discreet 5 (+5), Persuasive 11 (−1),                                                                                                                                                                                                                        |
+|                    | Quick 10 (0), Resolute 15 (−5), Strong 13 (−3), Vigilant 10 (0)                                                                                                                                                                                                                              |
+| **Abilities**      | [[Iron Fist]] (master), [[Natural Warrior]] (master)                                                                                                                                                                                                                                         |
+| **Weapons**        | Bite 14 (short), or 2 attacks at the same target with damage 12 and 8                                                                                                                                                                                                                        |
+| **Armor**          | Scales 8                                                                                                                                                                                                                                                                                     |
+| **Defense**        | +4                                                                                                                                                                                                                                                                                           |
+| **Toughness**      | 13                                                                                                                                                                                                                                                                                           |
+| **Pain Threshold** | 7                                                                                                                                                                                                                                                                                            |
+| **Equipment**      | None                                                                                                                                                                                                                                                                                         |
+| **Shadow**         | Emerald green, like the leaves on an ancient oak, hypnotically rustling in the summer breeze (corruption: 0)                                                                                                                                                                                 |
+| **Tactics**        | The lindworm is old and sly and will not fight if it knows it cannot win, or if there is nothing to gain. It prefers to enthrall its victims to learn about them, thereby finding out which one is the strongest. After that, the serpent is not afraid to let its fangs end the discussion. |

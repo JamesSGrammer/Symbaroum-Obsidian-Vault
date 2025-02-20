@@ -1,29 +1,16 @@
-**Race** Elf
-**Resistance** Challenging 
-**Traits** [[Long-lived]]
-Accurate 15 (−5), Cunning 10 (0), Discreet 11 (−1), Persuasive 9 (+1), Quick 10 (0), Resolute 13 (−3), Strong 7 (+3), Vigilant 5 (+5) 
-**Abilities** [[Marksman]] (master), [[Man-at-arms]] (adept), [[Polearm Mastery]] (master)
-**Weapons** Bow 5, Spear 5 (long) 
-**Armor** Lacquered Silk Cuirass 4 (flexible) 
-**Defense** 0 
-**Toughness** 10 
-**Pain Threshold** 4 
-**Equipment** [[Herbal Cure]]
-**Shadow** Deep green (corruption: 0) 
-**Tactics**: The elves of late summer prefer to use their bows, but if it comes to close combat they do not mind standing in the front line, keeping the enemies in check with their spears while other elves fill them full of arrows.
 
-| **Race**           | Elf                                                                 |
-| ------------------ | ------------------------------------------------------------------- |
-| **Resistance**     | Challenging                                                         |
-| **Traits**         | [[Long-lived]]                                                      |
-| **Attributes**     | Accurate 15 (−5), Cunning 10 (0), Discreet 11 (−1), Persuasive 9 (+1), |
-|                    | Quick 10 (0), Resolute 13 (−3), Strong 7 (+3), Vigilant 5 (+5)       |
-| **Abilities**      | [[Marksman]] (master), [[Man-at-arms]] (adept), [[Polearm Mastery]] (master) |
-| **Weapons**        | Bow 5, Spear 5 (long)                                               |
-| **Armor**          | Lacquered Silk Cuirass 4 (flexible)                                  |
-| **Defense**        | 0                                                                   |
-| **Toughness**      | 10                                                                  |
-| **Pain Threshold** | 4                                                                   |
-| **Equipment**      | [[Herbal Cure]]                                                     |
-| **Shadow**         | Deep green (corruption: 0)                                          |
+| **Race**           | Elf                                                                                                                                                                                                                         |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Resistance**     | Challenging                                                                                                                                                                                                                 |
+| **Traits**         | [[Long-lived]]                                                                                                                                                                                                              |
+| **Attributes**     | Accurate 15 (−5), Cunning 10 (0), Discreet 11 (−1), Persuasive 9 (+1),                                                                                                                                                      |
+|                    | Quick 10 (0), Resolute 13 (−3), Strong 7 (+3), Vigilant 5 (+5)                                                                                                                                                              |
+| **Abilities**      | [[Marksman]] (master), [[Man-at-arms]] (adept), [[Polearm Mastery]] (master)                                                                                                                                                |
+| **Weapons**        | Bow 5, Spear 5 ([[Long]])                                                                                                                                                                                                   |
+| **Armor**          | Lacquered Silk Cuirass 4 ([[Flexible]])                                                                                                                                                                                     |
+| **Defense**        | 0                                                                                                                                                                                                                           |
+| **Toughness**      | 10                                                                                                                                                                                                                          |
+| **Pain Threshold** | 4                                                                                                                                                                                                                           |
+| **Equipment**      | [[Herbal Cure]]                                                                                                                                                                                                             |
+| **Shadow**         | Deep green (corruption: 0)                                                                                                                                                                                                  |
 | **Tactics**        | The elves of late summer prefer to use their bows, but if it comes to close combat, they do not mind standing in the front line, keeping the enemies in check with their spears while other elves fill them full of arrows. |

@@ -1,3 +1,4 @@
+
 | Level of Risk | Meaning                | Size of Bribe                                                                                                                                                                     |
 | ------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Low           | To do one’s job faster | One tenth of the person’s daily income. If less than an orteg, use food or similar.                                                                                               |
