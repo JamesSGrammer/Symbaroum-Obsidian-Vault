@@ -1,0 +1,6 @@
+Some parasitical creatures have the capacity to penetrate the body of a victim, or with claws or stinger plant larvae inside an unwilling host. The impact of the parasite depends on the particular creature, while this trait decides how difficult it is to avoid being, or staying, infested.
+
+---
+- I **Action**: *Reaction*. In order to infest the victim, the creature must deal damage with an attack. After this, it needs a whole turn to penetrate the body of the host, during which the victim or an ally can use a combat action to remove the parasite. Removal inflicts 1D8 damage on the host, or 1D4 with a successful Cunning test. To remove a parasite after it has penetrated the body requires a passed Cunning test with the Medicus ability; each attempt deals 1D10 damage, ignoring Armor. 
+- II **Action**: *Reaction*. The parasite invades the host directly after an attack that deals damage. Removing it requires a passed Cunning test with the Medicus ability; each attempt deals 1D12 damage, ignoring Armor. 
+- III **Action**: *Reaction*. As II, but each attempt to remove the parasite deals 1D20 damage to the victim, ignoring Armor.

@@ -1,0 +1,7 @@
+The artifact which in Lyastra was known as Lyra’s Lantern was allowed to be brought by Kalthar from his chamber in the Dark Lords’ fortress. He knows that it came with his order, the Priesthood of Dakothnic, on their flight from Lindaros, but that is all he knows about its origin. What matters to him is that it gave him comfort during the darkening and fall of his homeland, and that it continued to do so during his imprisonment. The blessed lantern emits a warm, comfortable and never-ending shine, and has the following powers: 
+**Sanctifying Aura**: All abominations and blight-marked creatures experience a strong sense of discomfort when the lantern is near (within two movement actions). They get two chances to fail all success tests, and if the outcome of any success test is 20, they spend the next turn regurgitating the darkness which fills them (only reactions are possible). 
+Action: Passive 
+Corruption: -
+**Banish Spirits**: Having bound oneself to the lantern, one may use its power to banish spirits from a certain location. The spirit must be within one movement action from the lantern, and if a [Resolute←Resolute] test succeeds, the spirit must flee the scene or (if it cannot flee) stay completely inactive. Every hour after the first, a test is made against the spirit’s Resolute to determine whether it can muster the courage to return. 
+**Action**: Free 
+**Corruption**: 1D6

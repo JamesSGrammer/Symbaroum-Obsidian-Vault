@@ -1,0 +1,6 @@
+The creature is blessed with a sensory organ through which it can detect nearby outbreaks of corruption. This ability most likely emerged as a warning system, but many witch hunters would probably give their left eye for the advantage such a sense would confer in the hunt for heretics and cultists.
+
+---
+- I **Action**: *Reaction*. With a successful Vigilant test the creature can detect nearby outbreaks of corruption (roughly five hundred meters in all directions, if more exact distances are called for). Minor outbreaks (1 point of temporary corruption) cannot be detected; at 2 points, Vigilant is modified with –5; at 3 points with ±0; at 4 points or more with +5. If the test succeeds, the creature senses the outbreak and the general direction in which it occurred. 
+- II **Action**: *Reaction*. As I, but the creature can pin point exactly where the outbreak occurred, thanks to residual energies.
+- III **Action**: *Reaction*. As II, but the creature can also track the source of the outbreak for one day, through the ethereal tracks it leaves behind.

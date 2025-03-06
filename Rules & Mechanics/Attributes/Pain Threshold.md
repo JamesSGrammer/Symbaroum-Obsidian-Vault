@@ -1,1 +1,1 @@
-Pain Threshold = Strong/2 (rounded up)
+Pain Threshold = [[Strong]]/2 (rounded up)

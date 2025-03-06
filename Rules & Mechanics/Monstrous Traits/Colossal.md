@@ -1,0 +1,6 @@
+There are creatures that grow to such immense proportions that their sheer size gives them the upper hand, albeit at the cost of a notable slowness in movements and reflexes. Surviving a combat encounter with such a monstrosity calls for as much luck as proficiency and, when it comes to the most massive beasts, also weapons with extraordinary qualities. Colossal requires the creature to have level III in the trait [[HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Monstrous Traits/Robust|Robust]].
+
+---
+- I **Action**: *Passive*. When the creature attacks, both actions are spent; hence, it cannot move and at tack during the same turn. In return, the attacks of the creature hit with a force that normal armor can hardly withstand – the target rolls twice for Armor and the lowest outcome stands.
+- II **Action**: *Passive*. As I, but the massive body of the creature makes it unable to perform reactive actions (such as Defense tests) while it is moving. On the other hand, the creature's reach and size are such that its enemies have a hard time parrying or avoiding the attacks – the target has two chances to fail when rolling for Defense . 
+- III **Action**: *Passive*. As II, with the addition that the enormous bulk of the creature cannot be harmed by ordinary weapons or projectiles. The creature can only be damaged by mystical weapons or powers.

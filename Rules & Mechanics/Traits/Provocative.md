@@ -1,0 +1,6 @@
+The creature has a knack for provoking everyone it meets to such an extent that it can become useful as a distraction during combat. The trait requires no success test if the enemy is already consumed with rage (the Berserker ability); then it succeeds automatically. However, enemies with the Steadfast ability are allowed two attempts to regain their composure every turn.
+
+---
+- **Novice Free**. With a successful [Resolute←Cunning] test the creature can provoke an enemy beyond all reason. If successful, the creature has a second chance to pass all tests to avoid being affected by the enemy’s actions (such as Defense). Only one enemy at a time can be fazed this way. The effect lasts for the rest of the scene without further tests, but if the creature wishes to provoke another enemy a new [Resolute←Cunning] test is required. 
+- **Adept Free**. Like I, but the enemy also becomes careless in its defense. If the [Resolute←Cunning] test succeeds, the creature has a second chance to pass all success tests against the enemy. 
+- **Master Active**. The creature is a master teaser, and can pass a Cunning test to throw an entire group of enemies off balance. If successful, all enemies start to seethe with reckless rage and the creature has two chances to succeed with defense, resisting influence, and attacks against all enemies for the duration of the scene.

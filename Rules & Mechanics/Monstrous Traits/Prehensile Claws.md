@@ -1,0 +1,6 @@
+The claws of the creature deal damage like unarmed attacks, and also give it a chance to grip and hold enemies – usually with the aim of dragging them towards its grinding jaws.
+
+---
+- I **Action**: *Active*. The creature may perform two attacks against the same enemy, one with each claw. If both attacks hit, the creature may try to grip the target, which succeeds if the target fails a [Strong←Strong] test. A gripped target can act as usual other than being unable to move. The target is held during the turn it is gripped and then, if the target fails a [Strong←Strong] test, pulled towards the creature during the following turn. If the test is successful the enemy gets free.
+- II **Action**: *Active*. As I, but only one of the claw attacks needs to hit for the target to be gripped.
+- III **Action**: *Active*. If at least one claw hits, and the target fails a [Strong←Strong] test, the target is immediately pulled towards the creature. If the test is successful, the target is still gripped and a new attempt to pull it towards the creature may be made the following turn; the target cannot get free until the creature dies or chooses to let go.

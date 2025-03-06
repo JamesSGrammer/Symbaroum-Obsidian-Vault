@@ -1,0 +1,3 @@
+Fighting while wading, with arms and head above water, gives a second chance to fail all success tests. Fighting while swimming, submerged and with no contact with the se abed, gives a second chance to fail all success tests and halves the damage dealt with all physical attacks, including fire based mystical powers.
+Also, a creature fighting while submerged in water must roll a test against Strong each turn; a failure gives one point in Toughness damage because of the straining effort and oxygen deficiency. 
+Creatures with the trait Amphibian suffer no negative effects from figh ting in water. Undead beings have a second chance to fail all success tests, but do not suffer any damage from being submerged.

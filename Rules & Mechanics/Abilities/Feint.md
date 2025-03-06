@@ -1,4 +1,4 @@
-Persons and creatures that lack the will or strength to wield heavy melee weapons have instead devel oped techniques for feinting. This ability demands a weapon with either the Short or the Precise quality. Thanks to the skill of the character, these weapons can be handled in a both discreet and confusing manner. Every attack therefore gains the same Advantage as if the opponent was surprised.
+Persons and creatures that lack the will or strength to wield heavy melee weapons have instead developed techniques for feinting. This ability demands a weapon with either the Short or the Precise quality. Thanks to the skill of the character, these weapons can be handled in a both discreet and confusing manner. Every attack therefore gains the same Advantage as if the opponent was surprised.
 
 ---
 - Novice **Passive**. The character can choose to attack with Discreet instead of Accurate when the attack is made with a melee weapon which is either Short or Precise.

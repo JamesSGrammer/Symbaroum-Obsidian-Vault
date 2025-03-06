@@ -1,0 +1,7 @@
+The creature can swallow enemies and have them perish in its belly. Normally, only one victim at a time may be swallowed, but if the creature so wishes, it can use a free action to spew out a victim in order to make room for a new one.
+Devour requires that the creature has level I or higher in the trait Colossal. The level in Colossal also determines how many victims may be simultaneously swallowed: three at level II, and a total of six at level III.
+
+---
+- I **Action**: *Active*. When the creature deals damage with a bite, the target is retained until the following turn; it may act as usual but not move. Next turn, the creature can attempt to swallow the target. The target rolls a [Strong←Strong] test, where the trait Robust gives a +2 bonus per level, both for the creature and the target. If successful, the target manages to get free from the hold, but a failure means that the target is devoured and ends up in the creature’s belly – a hazardous environment dealing 2 damage per turn, ignoring Armor.
+- II **Action**: *Active*. As I, but the bite only needs to hit (not deal damage) for the target to be retained. The attempt to swallow is made during the following turn.
+- III **Action**: *Reaction*. As II, but the attempt to swallow is made as part of the initial attack – if the bite hits, the test to avoid being devoured is rolled immediately, the same turn.

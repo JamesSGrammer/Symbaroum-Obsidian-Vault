@@ -1,0 +1,4 @@
+**Tradition**: Troll Singing
+
+In ancient times, the trolls used this slow, wailing tune as a summoning call, to muster their kin in the face of danger or gather them for important festivals. Other trolls would often join in the singing as they walked toward the place where it first begun – that way, the song's message could reach a greater number of individuals. The singing mystic must decide which tune to sing. There is a song for each family of creatures: Elves, Winged creatures, Undead, Humans, Reptiles, Spiders, Abominations, Trolls or Predators (see table 30 on page 209 in the Core Rulebook). All creatures of the selected family who are within a day's march from the singer are called to his or her location. However, those who hear the song are perfectly free to ignore it, if they have more pressing matters to attend to.
+

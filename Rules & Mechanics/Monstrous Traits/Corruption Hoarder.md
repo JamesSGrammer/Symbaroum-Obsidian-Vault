@@ -1,0 +1,10 @@
+The creature is able to accumulate corruption and use it for a series of special actions. The corruption hoarder may at most accumulate Resolute/2 (rounded up) points of corruption for use in this way. Collected corruption dissipates at a rate of one point per day; a corruption hoarder depleted of accumulated corruption is driven by a deep hunger for more. Only thoroughly corrupt creatures can have the trait Corruption Hoarder.
+
+---
+- I **Action**: *Active*. The creature can steal corruption from a tainted victim, by eating its flesh or drinking its blood. The victim has to be compliant – unconscious, bound, drugged or otherwise unable to put up a fight. The victim suffers 4 points of damage each turn (ignoring Armor) while the corruption hoarder accumulates 2 points of permanent corruption that consequently are removed from the victim. As a reactive action, the creature may spend one point of accumulated corruption per turn, on one of the following: 
+– Give an enemy a second chance to fail a roll to avoid being affected by one of the corruption hoarder’s abilities, powers or traits
+– Give an enemy a second chance to fail a Defense roll against one of the corruption hoarder’s attacks 
+– Give an enemy a second chance to fail with an attack against the corruption hoarder 
+– Force an enemy to make a second effect roll and accept the lower outcome
+- II **Action**: *Passive*. As I, but the natural weapons of the creature drain corruption from the target. As soon as the creature deals damage, the victim also loses 2 points of permanent corruption. As reactive actions, the creature may spend up to two points of accumulated corruption per turn, on the effects listed at level I.
+- III **Action**: *Passive*. As II, but the creature may as reactive actions spend any amount of accumulated corruption per turn, on the effects listed at level I.

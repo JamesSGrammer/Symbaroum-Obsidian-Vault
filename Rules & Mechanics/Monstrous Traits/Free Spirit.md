@@ -1,0 +1,1 @@
+The creature’s spirit is detached from the fate of the world, and it is therefore immune to all forms of corruption. As a side effect, the creature cannot learn any mystical powers or rituals. However, it can use mystical artifacts without suffering from any corruption that might occur.

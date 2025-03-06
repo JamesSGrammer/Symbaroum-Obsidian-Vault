@@ -1,0 +1,6 @@
+The creature’s claws, venomous bite or stinger has a paralyzing effect. At best, the victim is dazed by the venom; at worst, it is completely incapacitated and unable to protect itself from incoming attacks. The effect remains active until someone administers an antidote to the victim and passes a Cunning test.
+
+---
+- I **Action**: *Passive*. For each attack that deals damage, the victim makes a Strong test. If the test is successful, the victim is dazed and has two chances to fail all success tests and reactive actions for one turn; if the test fails, the victim can only perform reactive actions, with two chances to fail. 
+- II **Action**: *Passive*. As I, but if the victim fails the test, it can only perform reactive actions for the next 1D4 turns, with two chances to fail. 
+- III **Action**: *Passive*. The target must pass a [Strong −5] test. If the test is successful, the victim can only per form reactive actions for the next 1D4 turns, with two chances to fail; if the test fails, the victim is completely paralyzed for 1D8 turns.

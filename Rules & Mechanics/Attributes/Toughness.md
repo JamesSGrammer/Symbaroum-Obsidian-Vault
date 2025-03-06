@@ -1,1 +1,1 @@
-Toughness = Strong (though never below 10
+Toughness = [[Strong]] (though never below 10

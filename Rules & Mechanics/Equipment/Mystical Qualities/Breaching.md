@@ -1,0 +1,1 @@
+The clanging sound emitted when a Breaching melee weapon hits metal contains weakening har monies which gradually destroy armor or shields. The Armor value of a piece of armor is decreased by 1 for every hit, while a shield has a 25% chance of being rendered unusable with every successful Defense [1–5 on 1d20].

@@ -1,0 +1,6 @@
+The one who kills a creature with this trait is immediately exposed to its vengeance, in the form of one or more other creatures. The type of avenger depends on the creature with the trait; the level of the trait only defines how many and how dangerous the avenging creatures are, not their exact nature. Normally, the avenging creatures are of the same breed as the being who has the trait, but this is not a requirement as long as the combination makes sense. The only restriction is that only thoroughly corrupt creatures can have other thoroughly corrupted beasts as avengers. Note that a creature needs to be of at least Challenging resistance to be able to have the trait Avenging Successor.
+
+---
+- I **Action**: *Reaction*. At the moment of death, one creature is detached or manifested to avenge the creature with the trait. The avenger’s level of resistance is two steps lower than that of the deceased. 
+- II **Action**: *Reaction*. As I, but two creatures are detached or manifested.
+- III **Action**: *Reaction*. As I, but three creatures are detached or manifested.

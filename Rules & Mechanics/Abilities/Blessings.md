@@ -1,0 +1,6 @@
+Blessings represent the mystical tradition taught and practiced by all mystically inclined priests from the faraway Realm of the Order. In essence, it combines powers from both Witchcraft and Theurgy with a variety of blessings unique to the clergy of the Young Gods. Note that the tradition itself will be described in more detail in future books.
+
+---
+- Novice **Special**. The priest no longer suffers permanent Corruption when learning blessings at Novice level, nor when learning the rituals of the tradition. Despite this, the character has no protection against the temporary Corruption that comes from performing the blessings and rituals of the tradition.
+- Adept **Special**. The priest no longer suffers permanent Corruption when learning blessings at Adept level. The Adept has also learned to use the holy powers and rituals according to the will of the gods, and now only suffers one (1) temporary Corruption when performing them.
+- Master **Special**. The priest's profound insight into the divine increases the effect of all healing and holy powers by 1D4, including damage dealt against Abominations and Undead. The priest suffers no Corruption when learning blessings at master level.

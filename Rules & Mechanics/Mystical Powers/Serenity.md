@@ -1,0 +1,7 @@
+**Tradition**: Blessing
+The beauty of nature is infinite: a blade of grass swaying in the wind, an ant scuttling across the ground, or the clouds drifting in the sky are all proof thereof, and the instruments of the Hostess can use them to both snare its enemies and provide relief to harrowed followers in need. The power has no effect on abominations.
+
+---
+- Novice **Active**. With a successful [Resolute←Resolute] the mystic can spellbind even the most furious of creatures, which immediately becomes passive, sags to the ground, and heals 1 point of Toughness. The creature may defend itself, but all attacks against it are made from Advantage. The creature remains passive and may not perform movement actions, active and reactive abilities, or do anything else until it takes damage, or the mystic loses concentration or fails the [Resolute←Resolute] test.
+- Adept **Active**. Like novice, except the spellbound heals 1D4 Toughness and the power also decreases the potency of any poisons affecting the victim by one step.
+- Master **Active**. Like adept, except the spellbound heals 1D6 Toughness and remains passive for 1D6 turns or until it takes damage. All attacks on the creature hit automatically.
