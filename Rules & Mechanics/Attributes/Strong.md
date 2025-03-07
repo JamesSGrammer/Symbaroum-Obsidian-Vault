@@ -1,1 +1,0 @@
-*Strong* mirrors a character’s capacity to use its physical strength in order to, for instance, lift some thing heavy or break down a door. It also covers the capacity to withstand physical damage and to resist poisons and diseases. *Strong* is usually modified by a level of Difficulty, sometimes by an enemy’s *Strong*.

@@ -1,3 +1,0 @@
-A Blight-marked character must choose a Stigma. Under the wrong circumstances, the Stigma can be discovered by people near the character, should the character fail a [Discreet←Vigilant] test.
-Just like Corruption, stigmas come in two forms: temporary and permanent. A temporary stigma occurs when the character’s Total Corruption, including temporary Corruption, reaches its Corruption Threshold and the permanent stigma when permanent Corruption alone reaches the Corruption Threshold.
-The player chooses a stigma (see Table 25) that fits his or her character.

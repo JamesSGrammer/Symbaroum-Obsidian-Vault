@@ -1,2 +1,0 @@
-**Tradition**: Only available to Inquisitors
-The higher level of the ritual [[Holy Smoke]] allows the theurg a second chance to pass all tests when using Holy Smoke. In addition, with a passed Cunning test, the Piercing Gaze sees through the ritual [[Exchange Shadow]], revealing the actual shadow hidden by the false one

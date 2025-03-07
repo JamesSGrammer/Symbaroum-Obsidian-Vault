@@ -1,1 +1,0 @@
-The conditions of the combat situation and the weapons of the combatants will affect the course of events. Special rules for line of sight, the use of shields as well as different kinds of advantages are covered in this section.

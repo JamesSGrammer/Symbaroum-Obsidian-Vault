@@ -1,1 +1,0 @@
-*Persuasive* reflects how well a player character can influence others by use of words, voice, body language and looks. The Attribute is often used when trying to persuade another person to do (or refrain from doing) something, either verbally, in writing or by song. *Persuasive* is usually opposed by an enemy’s *[[Resolute]]*.

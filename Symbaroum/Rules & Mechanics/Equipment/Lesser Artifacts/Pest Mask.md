@@ -1,2 +1,2 @@
-**Price**: 8 thaler
+**Price**: 8 [[Thaler]]
 In a world full of contagions and poisons it is no wonder that many methods – effective or only superstitious – have been developed to resist such phenomena. The Confessors of the Sun Church, for instance, carry pest masks to protect themselves. They allow the wearer to use their *[[Resolute]]* instead of *[[Strong]]* on tests to resist sicknesses and poisons.

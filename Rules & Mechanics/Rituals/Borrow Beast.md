@@ -1,4 +1,0 @@
-**Tradition**: Witchcraft
-By performing this ritual the mystic can possess the body of a small beast and have full control over it for a long period of time. The mystic’s body is in a trance during the duration of the ritual. The mystic’s mind is thrown back to its own body if the borrowed body is harmed. The same happens if the mystic’s body is harmed or exposed to some kind of powerful interference (like being shoved, drenched in water or affected by heat and smoke).
-A mystic can manage to remain in this trance for 24 hours, after which the mind returns to its body. After this, Borrow Beast cannot be performed again for a time period which is as long as the previous trance lasted.
-A mystic who performs Borrow Beast and lets its body rest inside a [[Witch Circle]] has no limitation as to how long it can maintain the trance, since the body gets all the nutrition it needs from the ground inside the circle

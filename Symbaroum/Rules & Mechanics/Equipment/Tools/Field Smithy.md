@@ -1,2 +1,2 @@
-**Price**: 10 thaler
+**Price**: 10 [[Thaler]]
 The portable field smithy is a must for all traveling blacksmiths. It consists of a collection of tools, a field furnace with a water bath and a small anvil. Anyone using the smithy gains a +1 bonus to success tests with *[[Blacksmith]]*.

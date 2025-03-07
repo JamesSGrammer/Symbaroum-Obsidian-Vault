@@ -1,4 +1,0 @@
-**Tradition**: Sorcery 
-The mystic desecrates a specific site, tainting it and in effect punishing those who try to affect it from outside. A desecrated location corrupts those who use rituals like Clairvoyance, Summoning or Heretic´s Trail on it. The desecration gives 1D6 temporary Corruption to those who perform said rituals and if they persist in trying to get information with rituals they will also suffer 1D6 permanent Corruption
-Abominations (creatures belonging to the Abomination monster category) and the undead are drawn to desecrated areas and heal 1D4 points of Toughness for each hour they remain on desecrated ground. Even creatures that are only tainted by corruption, but have not transformed into true abominations, feel a strong attraction to desecrated areas and objects.
-The Desecrating Rite can also be performed over a weapon, which is a requirement for the Revenant Strike power.

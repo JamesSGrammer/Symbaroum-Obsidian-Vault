@@ -1,2 +1,0 @@
-**Price**: 10 [[Thaler]]
-The spiritualists among the witches often wear a shroud over their head when contacting the spirits of the dead, since this makes the spirits calmer and allows for a deeper connection. A mystic using such an artifact gains a +1 bonus to *[[Resolute]]* in all tests when dealing with spirits – both when trying to control them (as in the power [[Tormenting Spirits]]) and when trying to resist the effect of monstrous traits used by spirits, involving the *[[Resolute]]* attribute.

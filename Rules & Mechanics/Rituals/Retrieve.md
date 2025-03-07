@@ -1,2 +1,0 @@
-**Tradition**: Troll Singing 
-The mystic can sing a tune that reveals the path to a lost or displaced object. This requires that the mystic, or someone who is in the company of the mystic, knows the object so well that he or she can describe it in detail. If the object in question has been purposefully hidden, the mystic must pass a [Resolute←Discreet] test to learn its whereabouts.

@@ -1,2 +1,2 @@
-**Price**: 10 thaler
+**Price**: 10 [[Thaler]]
 This well-thumbed copy compiling all the troll smith Xavaundo’s knowledge was recorded by Master Balinda of Ordo Magica and gives a +1 bonus to success tests with *[[Artifact Crafting]]*.

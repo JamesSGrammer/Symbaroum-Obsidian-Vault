@@ -1,1 +1,0 @@
-The weapon lacks either cutting or piercing abil ities, and therefore uses one (1) Effect Die lower than other weapons of its kind. The quarterstaff, a Long weapon with the Blunt quality, deals 1D6 damage instead of 1D8, which is the usual damage for long weapons.

@@ -1,2 +1,0 @@
-Tradition: Theurgy 
-The mystic can banish a spirit possessing a creature or person. The mystic gets three attempts to succeed with a [Resolute←Resolute] test; the test’s resistance being the Resolute of the possessing spirit. It only takes one successful test to banish the possessing force. If all three tests should fail, the spirit possesses the mystic instead.

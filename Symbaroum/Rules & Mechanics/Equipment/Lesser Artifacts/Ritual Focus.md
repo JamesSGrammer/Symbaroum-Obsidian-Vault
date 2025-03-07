@@ -1,4 +1,4 @@
-**Price**: 8 thaler
+**Price**: 8 [[Thaler]]
 A tradition-specific object which gives a +1 bonus on success tests for all rituals belonging to the tradition. See examples below.
 
 ### Examples of Ritual Focuses

@@ -1,1 +1,0 @@
-The armor hampers any agile movements and gives a penalty to tests against Defense, sneaking and the use of mystic powers. The penalty depends on whether the armor is light (−2), medium (−3) or heavy (−4).

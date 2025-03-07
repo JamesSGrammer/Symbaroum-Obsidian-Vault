@@ -1,2 +1,2 @@
-**Price**: 10 thaler
+**Price**: 10 [[Thaler]]
 A manual on the use of poisons, richly illustrated with examples on what to do, and not do, in order to successfully brew decoctions and elixirs. Anyone using the manual gains a +1 bonus on all success tests with *[[Poisoner]]*.

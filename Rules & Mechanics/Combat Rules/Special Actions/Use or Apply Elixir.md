@@ -1,1 +1,0 @@
-To use or apply an elixir on either yourself or your equipment counts as a Movement Action. To use or apply it on somebody else counts as a Combat Action.

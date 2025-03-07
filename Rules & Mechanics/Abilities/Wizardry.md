@@ -1,6 +1,0 @@
-Wizardry is taught by Ordo Magica and is a tradition whose practitioners are well-versed in the mysteries of fire, the will’s triumph over matter and the labyrinths of the senses. To wizards of the Order, these phenomena are intimately connected.
-
----
-- Novice **Special**. The wizard no longer suffers permanent Corruption when learning powers at novice level belonging to the tradition of Wizardry, nor when learning its rituals. Despite this, the character has no protection against the temporary Corruption that comes from using the powers and rituals of Wizardry.
-- Adept **Special**. The wizard no longer suffers Corruption from learning the adept level of the powers belonging to the tradition of Wizardry. The adept has also learned to ground the powers and rituals of Wizardry in theories so well that the character now only suffers one (1) temporary Corruption when casting them.
-- Master **Special.** The master wizard’s understanding of linked magic is all but complete and the player character may therefore re-roll one (1) failed test each turn when attempting to establish a Chain of mystical effects (see page 130). The wizard no longer suffers permanent Corruption from learning the master level of the powers belonging to the tradition of Wizardry.

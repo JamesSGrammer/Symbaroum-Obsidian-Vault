@@ -1,2 +1,2 @@
-**Price**: 4 thaler
+**Price**: 4 [[Thaler]]
 The skin of a marlit, a reptile known for its sneaky hunting style, is treated with preserving alchemical preparations so that it keeps its camouflaging properties after the death of the beast. The wearer has a +1 bonus to *[[Discreet]]* when sneaking and hiding.

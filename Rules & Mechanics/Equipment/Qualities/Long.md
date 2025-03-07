@@ -1,1 +1,0 @@
-The weapon has the advantage of superior length and reach, giving the wielder one Free Attack each turn against an opponent that comes into range of melee combat, as long as said opponent is not also armed with a Long weapon.

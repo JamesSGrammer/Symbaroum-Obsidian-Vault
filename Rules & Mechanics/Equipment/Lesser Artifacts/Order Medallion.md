@@ -1,3 +1,0 @@
-**Price**: 2 [[Thaler]]
-The medallions of Ordo Magica are given to novices and stay with the wizards for their entire career. When the wizard reaches adept level, the medallion transforms to symbolize this step; the same thing happens when reaching master level. 
-Some chapters have made the order medallion mandatory and have also bound certain functions to it, such as the ability to open doors which are closed to outsiders/novices/adepts and to activate the chapter’s magic circle.

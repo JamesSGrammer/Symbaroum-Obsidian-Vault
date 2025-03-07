@@ -1,8 +1,0 @@
-Sometimes one side of a melee combat gets an advan tage over the other. A character sneaking up on an enemy to attack it from behind has the Advantage. Another situation where you are at an Advantage is when you attack a target lying on the ground or a target that is climbing towards you. To create advantages when fighting on plain and even ground requires the use of Actions, attacks or movements.
-If your character has the Advantage in a combat situation, it receives a +2 modification to the relevant Attribute when making a Success test, and its attacks deal 1D4 extra damage.
-
-### The following situations provide advantages:
-- Attacking an enemy that is unaware of the pending attack. For this situation to occur, a successful [Discreet←Vigilant] test is normally required by the attacker.
-- All melee attacks against a flanked enemy counts as providing an Advantage. A target is considered flanked if two enemies stand on opposite sides of it. It usually takes a Movement Action to get around an enemy and flank it. In the same way a character can use a Movement Action to get away from a flanked position – but with the consequence of receiving a Free Attack from each enemy.
-- All melee attacks against an enemy lying down. Note that ranged attacks do not get any advantage from this.
-- All attacks against enemies standing on lower ground than the attacker, such as attacking down from a wall against enemies climbing a ladder. This applies to both melee and ranged attacks.

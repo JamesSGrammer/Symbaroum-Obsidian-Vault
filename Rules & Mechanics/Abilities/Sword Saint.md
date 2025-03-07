@@ -1,6 +1,0 @@
-Among Ambria’s duelists, there are those who have achieved an almost mystic symbiosis with their fencing swords, who handle their weapons as if they were extensions of their body and soul. The Sword Saint techniques may only be used with a fencing sword (or other single-handed sword with the quality Balanced). A parrying dagger or the ability Mantle Dance may also be used in combination with the sword, but Sword Saint cannot be combined with the ability Twin Attack to gain additional bonuses to damage.
-
----
-- Novice **Passive**. The character has learned to take full advantage of fighting with a balanced sword in one hand and a parrying dagger in the other. The damage dealt by the sword is 1D10, instead of 1D8.
-- Adept **Reaction**. The character can perform a rapid riposte. After one successful Defense per turn, the character gains a Free Attack against the enemy.
-- Master **Reaction**. The master can perform a series of ripostes and gains a Free Attack against the opponent with each successful Defense test, with no limitation on the number of Free Attacks per turn. As a Passive addition, the damage of the balanced sword increases to 1D12.

@@ -1,3 +1,0 @@
-**Tradition**: Sorcery 
-With a passed Resolute test, the mystic binds the soul of a newly dead creature to a prepared vessel, usually a pendant with a jewel. The target must have died less than a minute prior to the start of the ritual, and the mystic must be at the scene of death or have access to the corpse. The purpose of capturing the soul is often to stop others from contacting it with the ritual [[Necromancy]].
-The Soul Trap is easily destroyed by smashing the vessel, but the rituals [[Break Link]] and [[Exorcism]] may also be used if one wants to spare the jewel.

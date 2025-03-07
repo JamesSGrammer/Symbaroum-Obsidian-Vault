@@ -1,2 +1,0 @@
-***Price***: 10 [[Thaler]]
-The power of a Pyromancer is increased by this glowing amber. The spark stone is a weaker version of the renowned Sun Stones that the master pyromancers of old could craft from summoned fire spirits. Nowadays, the fire wizards have to make do with lesser artifacts, far from as powerful but still a great help to those whose skills relate to fire and burning. All powers with fire effects gain a +1 bonus to the effect die when used by someone with a spark stone in hand or on top of his or her staff.

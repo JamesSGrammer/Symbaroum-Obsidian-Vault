@@ -1,6 +1,0 @@
-The character has learned the art of acrobatic maneuvering, having spent time with a theater company, in one of the fencing schools of Yndaros or climbing the trees of Davokar. The nimbleness of the acrobat provides an advantage when trying to withdraw from close combat or when quickly wanting to reach the center of an enemy formation.
-
----
-- Novice **Active**. The character may roll against Quick to avoid Free Attacks from enemies in melee combat, either when trying to slip past an enemy or when attempting to withdraw from melee. Should the test fail, the player must choose to either remain in its original place or to move anyway and suffer a Free Attack from the opponent.
-- Adept **Free**. If the character is knocked down he or she may attempt to jump back up again as a Free Action by making a Quick test. If the test fails the character has to spend a Movement Action to get back on its feet, as usual.
-- Master **Active**. The character can utilize its enemies as shields in battle. In combat with more than one opponent, the character may once per turn use an enemy as a shield and have that enemy suffer a successful hit instead of the character. That opponent cannot defend against the attack, but the master acrobat has to make a successful roll against Quick for the enemy to take the hit.

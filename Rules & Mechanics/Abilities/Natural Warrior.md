@@ -1,6 +1,0 @@
-A sword or a bow is not always needed to fight. Through long and hard training, the character has become a dangerous opponent even when unarmed. The barbarians of the forests have proud traditions of wrestling and boxing. Another example is the fighting style developed in the gutters of eastern Yndaros, a style that nowadays can be seen at the Dome since a pair of the city’s renowned gladiators have embraced its techniques
-
----
-- Novice **Passive**. The character has learned to use its natural-born warrior capabilities with great efficiency. The character’s unarmed attacks now deal 1D6 damage. If the creature has the Natural Weapons trait as well, then the damage is further increased according to the level of that monstrous trait.
-- Adept **Active**. With the speed of an adept, the character may now perform a double attack against a single target. The two attacks are rolled separately.
-- Master **Passive**. By attacking an opponent’s weak points with flawless precision – such as throat and knees – the master’s unarmed strikes are truly devastating. Each attack that hits deals 1D6 extra damage.

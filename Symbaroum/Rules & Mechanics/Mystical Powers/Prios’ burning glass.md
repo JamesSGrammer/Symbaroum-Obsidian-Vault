@@ -1,6 +1,6 @@
 **Tradition**: Theurgy
 **Material**: A holy symbol. 
-The mystic can focus the light of its soul into a burn ing ray, which damages most beings and destroys the unholy.
+The mystic can focus the light of its soul into a burning ray, which damages most beings and destroys the unholy.
 
 ---
 - Novice **Active**. With a Resolute test the mystic steers the holy light towards a target, dealing 1D6 damage. The damage increases to 1D8 if the target is an abomination or undead.

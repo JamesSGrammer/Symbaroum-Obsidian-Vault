@@ -1,2 +1,2 @@
-**Price**: 10 thaler
+**Price**: 10 [[Thaler]]
 Demonologists often wear a crown of rusty iron when tearing at the world’s fabric. These crowns give a +1 bonus when manipulating the world, as with the mystical powers *[[Exorcize]]* and *[[Teleport]]*, or the ritual *[[Summon Daemon]]*.

@@ -1,1 +1,0 @@
-![[Thistle Hold City view.png]]![[Thistle Hold legends.png]]

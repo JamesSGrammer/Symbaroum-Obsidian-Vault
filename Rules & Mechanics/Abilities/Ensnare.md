@@ -1,6 +1,0 @@
-Using weapons like bolas, nets or the long whip, many fighters and hunters of barbarian origin learn to limit the movement of enemies or prey. This skill is also known among Ambrians; flail weapons are, for instance, used in the lengthy show-fights at the gladiatorial arenas and by many bounty hunters. Abducted humans can sometimes be seen wield ing chain staffs, making it possible to ensnare the enemy. The character is trained in the ensnaring techniques used to gain Advantage in melee or to capture prey alive.
-
----
-- Novice **Active**. The character gains a second chance to ensnare a target (requires a weapon with the quality Ensnaring, see page 118).
-- Adept **Active.** In addition to the novice effect, the character gains a second chance to bring down an ensnared enemy (requires a weapon with the quality Ensnaring, see page 118 of the Advanced Guide).
-- Master **Reaction**. The character’s skill with ensnaring weapons is such that every ensnaring attack is assumed to hit the target’s neck and have a strangling effect; besides the ensnaring effect and the chance to bring down the enemy, the target suffers 1D6 damage, ignoring armor. If the target reach es 0 Toughness, the character can choose to make it unconscious instead of dying.

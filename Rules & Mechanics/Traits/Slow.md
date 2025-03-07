@@ -1,1 +1,0 @@
-The creature moves at an unusually slow speed. In situations where precision counts, the movement is 7 meters per turn. And in connection to the rule on Flight & Hunt, the trait gives a –3 Quick penalty.

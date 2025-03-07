@@ -1,1 +1,0 @@
-The armor is crafted with secret and retributive techniques that cause it to ooze acid. With each hit in melee combat, the attacker must pass a *[[Quick]]* test. If failed, the attacker is hit by an acid splash that deals 1d4 damage for 1d4 turns.

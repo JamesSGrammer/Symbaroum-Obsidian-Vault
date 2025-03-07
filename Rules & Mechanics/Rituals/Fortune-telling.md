@@ -1,2 +1,0 @@
-Tradition: Witchcraft
-With a successful Resolute test, the mystic may ask a yes/no question regarding the adventure. Fortune telling can only be done once per adventure, and further attempts are only possible when something major has come to pass, potentially changing the future (the Game Master decides if such an event has occurred).

@@ -1,1 +1,0 @@
-*Quick* represents a character’s reflexes, balance, nimbleness and how fleet-footed he or she is. It determines the order of initiative in combat and is used actively when jumping, avoiding harm and performing similar acrobatic maneuvers. *Quick* is often opposed by an enemy’s *[[Accurate]]*.

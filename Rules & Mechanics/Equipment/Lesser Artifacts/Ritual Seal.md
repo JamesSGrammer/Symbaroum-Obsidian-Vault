@@ -1,2 +1,0 @@
-**Price**: 12 [[Thaler]]
-The artifact crafter binds a ritual to a seal; when broken, the effect of the ritual is triggered. The creator of the seal need not know the ritual, but must be in the company of one who does when it is created (or have access to a ritual codex explaining the ritual; the codex is destroyed with this act). He or she who breaks the seal suffers from temporary corruption as usual.

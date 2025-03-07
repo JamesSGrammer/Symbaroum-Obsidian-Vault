@@ -3,5 +3,5 @@ Among Ambria’s fencers, shields are regarded as awkward and barbaric, making t
 
 ---
 - Novice **Passive**. The character’s mantle, or some similar sheet of cloth held in the hand, gives a +1 bonus to Defense.
-- Adept **Active**. The mantle strikes at the enemy’s eyes, temporarily blinding the target if the attack roll is successful. The character immediately gains a Free Attack against the target, an attack that the enemy must defend against as if blinded. Everyone at tacking the blind target can take advantage of the situation for the duration of one turn.
+- Adept **Active**. The mantle strikes at the enemy’s eyes, temporarily blinding the target if the attack roll is successful. The character immediately gains a Free Attack against the target, an attack that the enemy must defend against as if blinded. Everyone attacking the blind target can take advantage of the situation for the duration of one turn.
 - Master **Active**. In the master’s hands, the mantle is like a whip with the quality Ensnaring, making it possible to use it to trap the target. See the quality Ensnaring on page 118 for details.

@@ -1,2 +1,0 @@
-Anyone can defend themselves with a shield, pro viding +1 to Defense.
-The use of a shield makes it impossible to use ranged and Heavy weapons and neutralizes the reach advantage gained from a Long weapon, since the wielder must use it in one hand. The buckler is an exception to this, allowing the use of both hands, as well as giving the user +1 to Defense.

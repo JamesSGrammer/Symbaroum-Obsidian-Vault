@@ -1,5 +1,0 @@
-Among the tents and wagons of Blackmoor there is nothing that deserves being called a tavern; the closest you get is the handful of tents referred to as the Grubbery. The cook Alevia was once the first head chef at the Salons of Symbaroum, and a very appreciated one at that – until she was thrown out through the Southern Gate, banned from reentering Thistle Hold ever again. Even though many claim to know “what actually happened”, the reason behind the ban remains a much debated mystery. If Alevia really brutalized a kitchen boy, if she embezzled valuable ingredients or actually conspired to kill Mayor Nightpitch by poisoning him nobody will ever truly know. But what is evident to anyone visiting the Grubbery is that if you with one hand place a shilling on her palm you will get a bowl of excellent soup and a piece of newly baked bread in the other. Any troublemaker or freeloader will instead get a bash from Alevia’s big wooden ladle, if not from her frying pan. 
-
-Bread 1–5 ortegs 
-Soup 1–5 ortegs 
-Cup of water 1 ortegs

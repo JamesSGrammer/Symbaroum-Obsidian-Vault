@@ -1,2 +1,0 @@
-**Tradition**: Troll Singing 
-The mystic can restore a damaged item by singing – a broken sword is mended, a shattered vase is reassembled and a corroded lock regains its functionality. The restored item recovers all its functions and qualities. The mystic cannot create anything new by using the ritual.

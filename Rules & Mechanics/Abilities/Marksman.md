@@ -1,6 +1,0 @@
-Marksmen have their natural position in every army, scouting party and band of brigands. The character can inflict serious damage on its enemies with a bow or crossbow, hoping to either bring them down or at least make sure that they do not reach those of the character’s allies that are equipped for melee combat.
-
----
-- Novice **Passive**. Thanks to the character’s skill, damage dealt with bows and crossbows is increased to 1D10 and 1D12 respectively, from the usual 1D8 and 1D10.
-- Adept **Active**. The character’s precision provides his or her projectiles a crippling effect. The attack deals damage as usual and if the target is wounded the character may make an [Accurate←Strong] test every time the target attempts to move. A successful test means that the target cannot move and its Movement Action is forfeit. As soon as the target manages to move (the character fails the test), the crippling effect is gone.
-- Master **Active**. The master Marksman’s projectiles become armor piercing. The shot hits a weak spot and completely ignores the target’s Armor.

@@ -1,7 +1,0 @@
-**Only available to Gentleman Thief**
-Among Ambria’s fencers, shields are regarded as awkward and barbaric, making the parrying dagger a more fashionable tool for defense. Another school has gone one step further and developed elegant techniques that turn the fencer’s mantle into a dancing shield. The character may use his or her free hand along with a mantle or similar sheet of cloth in Defense. When used by the character, the sheet becomes a sweeping and hypnotic shield that can confuse or temporarily blind the opponent.
-
----
-- Novice **Passive**. The character’s mantle, or some similar sheet of cloth held in the hand, gives a +1 bonus to Defense.
-- Adept **Active**. The mantle strikes at the enemy’s eyes, temporarily blinding the target if the attack roll is successful. The character immediately gains a Free Attack against the target, an attack that the enemy must defend against as if blinded. Everyone attacking the blind target can take advantage of the situation for the duration of one turn.
-- Master **Active**. In the master’s hands, the mantle is like a whip with the quality Ensnaring, making it possible to use it to trap the target. See the quality Ensnaring on page 118 for details.

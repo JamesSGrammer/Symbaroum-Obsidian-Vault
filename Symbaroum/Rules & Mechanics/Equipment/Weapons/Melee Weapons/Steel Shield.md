@@ -1,2 +1,2 @@
-**Price**: 15 thaler
+**Price**: 15 [[Thaler]]
 **Damage**: 1D4

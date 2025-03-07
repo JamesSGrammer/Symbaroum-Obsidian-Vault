@@ -1,5 +1,5 @@
 **Tradition**: Theurgy
-**Materia**l: A melee weapon blessed with the ritual Sanctifying Rite. 
+**Materia**l: A melee weapon blessed with the ritual *[[Sanctifying Rite]]*. 
 The mystic has learned to shroud its melee weapon with holy and blight-hating fire, just like the legendary Lightbringer Ofelya Attio.
 
 ---

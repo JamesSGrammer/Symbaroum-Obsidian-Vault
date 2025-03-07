@@ -1,7 +1,0 @@
-The beer salon Brew is run by an elderly couple, Kaglio and Sunna, who claim to have been successful as brewers already before the move north of the Titans. Their assortment spans from fermented malt beverages, like the commonly available Stut, to triple fermented and very strong specialties with names like Urtal and Adersel. Since three years past they also serve the beverage Veloum, stemming from clan Vajvod’s proud brewing tradition. It is not as strong as blackbrew but just as full-bodied and much more palatable. Even though Brew is located outside Haloban’s Ring, it can become rough in there at times. The clientele primarily consists of successful fortune hunters resting in-between expeditions, and their boasting has an unfortunate tendency to translate into brawls. That is when Brute is needed – the huge and fearless ogre is hired to break brawlers apart and to hurl them out on the Eastern Square, if needs be. No one picks a fight with Brute, especially when it is said that the old crone he calls Mi-Mum is an aged and incredibly powerful barbarian witch. 
-
-Hack Tray (cheese and meats) 3 shillings 
-Tankard of The Duke’s Relief (simple stut) 1 shilling 
-Tankard of Urtal (triple fermented red ale) 5 shillings 
-Tankard of Adersel (triple fermented ale) 8 shillings 
-Tankard of Veloum 2 shillings

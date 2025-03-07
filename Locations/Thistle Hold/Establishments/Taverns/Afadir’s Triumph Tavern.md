@@ -1,7 +1,0 @@
-He who has plenty of thaler in the purse and who longs for a culinary journey back to old Alberetor should make a reservation at Afadir’s Triumph Tavern. Neither the ingredients nor the spices match the original recipes, but the owner and his staff do their best to find worthy, local replacements. The salmons of Berendoria’s bay can be swapped for the rainbow trout of Ambria’s rivers; the southern Pepper Fruit has its equivalent in Davokar’s Roka Berries; and honey may be used as a substitute for the sugar of Alberetor. However, sometimes things go wrong. During the summer of year 18, more than twenty people got sick and four died because an ambitious kitchen hand thought that he had found the perfect surrogate for the herb chervil – often used to flavor buttered turnips. Unfortunately, the substitute. proved to be toxic and the young boy himself immune to its effects. Instead of a promotion, he suffered ten days in the block before he was executed by hanging. Afadir paid the large fines and swore in the name of Prios never to let anyone repeat such a mistake. 
-
-Trout pudding with buttered turnips 15 shillings 
-Roka Sausage with mashed beats 12 shillings 
-Tankard of Argona (fine stut) 2 shillings 
-Tankard of Kurun’s Honor (triple fermented ale) 5 shillings 
-Honey roasted sorrel 3 shillings Salty-sweet needles 5 ortegs

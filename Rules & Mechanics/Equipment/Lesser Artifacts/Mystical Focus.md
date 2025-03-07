@@ -1,2 +1,0 @@
-**Price**: 12 [[Thaler]]
-A tradition-specific focus gives a +1 bonus on all tests related to all powers of the tradition, but limited to one use per scene. The bonus may be used together with other lesser artifacts that also provide a bonus to success tests for the mystical power in question. A mystical focus is bound to the user as other, higher artifacts – that is, by spending an experience point or by willingly accepting one point in permanent corruption.

@@ -1,2 +1,0 @@
-**Price**: 8 [[Thaler]]
-A gold coin instilled with energies of good fortune. The coin is carried in a pocket and gives a +1 bonus to one success test, once per scene. Whoever toys with such energies is at risk of suffering from the opposite effect; if the outcome of a test modified by the coin is 20, the carrier will have bad luck for the rest of the scene – all success tests have a second chance to fail.

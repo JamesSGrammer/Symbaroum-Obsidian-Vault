@@ -1,2 +1,0 @@
-**Price**: 10 [[Thaler]]
-Writing utensils, parchment, compass, ruler and a sextant are the base instruments of a trained cartographer. Using these tools gives a +1 bonus on all success tests when trying to draw accurate maps.

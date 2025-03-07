@@ -1,3 +1,0 @@
-Lasifor Nightpitch Mayor of Thistle Hold, the uncrowned king of Ambria’s treasure-hunters
-
-Lasifor took the opportunity, both to enrich himself and gain a hold on House Kohinoor – today he is the only Ambrian who knows where the Twilight Thistle grows, and one of very few who knows a family secret that the Queen is prepared to safegu ard at almost any price. Thus, when Laisfor with an insinuating look “wished” to exchange part of the promised reward into a title as Prince of the Realm and the ownership over an area close to Davokar, it is hardly surprising that Korinthia reluctantly went along with the agreement.

@@ -1,3 +1,3 @@
-**Price**: 25 thaler
+**Price**: 25 [[Thaler]]
 **Damage**: 1D8
 **Qualities**: [[Precise]]

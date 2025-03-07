@@ -1,6 +1,0 @@
-When moving through dark forests and under ground tunnels, one’s eyes are no longer very useful. Lighting a lantern or torch may summon dangers, so the explorer had better learn to rely on his or her other senses. With dedicated training it is possible to awaken these other senses and sharpen them to the brink of eeriness. The Sixth Sense ability provides the character with unique capabilities when fighting at a distance or in situations where eyesight can no longer be trusted. A character with Sixth Sense may under calm circumstances navigate unhindered in dim light, as well as maintain a sense of direction in complete darkness, though at a pace of only a quarter of its normal, daytime speed.
-
----
-- Novice **Passive**. The character has a strong intuition, which lets him or her use Vigilant instead of Accurate when attacking with ranged weapons.
-- Adept **Passive**. The character’s intuition has expanded and the character may now use Vigilant instead of Quick for Initiative and when calculating his or her Defense.
-- Master **Passive**. The character can move and fight unhindered when blinded or in complete darkness.

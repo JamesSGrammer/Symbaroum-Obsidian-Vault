@@ -1,2 +1,0 @@
-The armor is unusually flexible and is less Impeding than its protective capability would suggest. For this reason a Flexible light armor has no penalty at all on Defense tests, sneaking and the use of mystic powers. A Flexible medium armor has a (−1) penalty and a Flexible heavy armor (−2).
-A Flexible shield can be carried strapped to the arm, ready to use, while at the same time allow ing the bearer to use both hands for wielding a Long or Heavy weapon. Even ranged weapons can be used without problem together with a Flexible shield.

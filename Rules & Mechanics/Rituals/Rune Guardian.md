@@ -1,3 +1,0 @@
-**Tradition**: Symbolism 
-The mystic creates a personal guard from a statue of stone or wood, carved with life-giving and loyalty building runes. The creator of the guardian can instill some of its own experience into the statue, to make the being stronger upon creation.
-The Rune Guardian is handled like a second character of the player; it gains Experience and develops over time. The guardian does not sleep and has a simple personality, revolving around duty and obedience. If the guardian dies all acquired Experience is lost and the mystic must start over with a new guardian.

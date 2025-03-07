@@ -1,2 +1,0 @@
-**Price**: 10 [[Thaler]]
-Prominent mind-warping wizards often carry a gold ring on a finger, around the wrist or upper arm, or on the head in the form of a headband. To them, this represents the noble endeavor of the ruler. These rings are often instilled with the ability to dominate all living beings. If so, the gold ring gives a +1 bonus to all test involving powers and rituals of *Wizardry* affecting the will of the target, for example the use of, and resistance to, *[[Bend Will]]* and *[[Telepathic Interrogation]]*.

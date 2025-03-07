@@ -1,2 +1,0 @@
-**Tradition**: Only available to Confessors
-The higher level of the ritual Exorcism makes the theurg able to lighten the spiritual burdens of a non-possessed person; this is done by the sinner accepting to perform a task for the Confessor. The task must be time-consuming and expensive or dangerous, usually some good deed for the Sun Church or for Prios in general. Once the task is accomplished, the sinner’s permanent corruption is reduced by 1d4. The ritual costs one point of Experience to perform, paid by the confessor or the sinner (the mystic decides).

@@ -1,6 +1,0 @@
-Barbarians, Ambrians and goblins all have fighting techniques involving the use of more than one weapon. The character has learned how to fight with two weapons, an advanced but effective tech nique that gives the warrior an offensive advantage. Twin Attack is especially effective against lightly armored targets.
-
----
-- Novice **Active**. The character can safely wield two weapons, one in each hand. The novice can fight with a single-handed weapon in its primary hand and a Short weapon in the other. The character can make two attacks against the same target, dealing 1D8 and 1D6 damage respectively. The enemy must defend itself separately against the attacks. The novice also receives a +1 bonus to its Defense as a Passive ability, but only when wielding a weapon in each hand.
-- Adept **Active**. The adept can use two single- handed weapons, each attack dealing 1D8 damage.
-- Master **Active**. With the skill of a Master, the damage dealt by the main-hand weapon is 1D10 while the weapon in the other hand deals 1D8.

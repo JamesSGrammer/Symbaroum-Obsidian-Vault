@@ -1,1 +1,0 @@
-Traps come in two types, mechanical and alchemical. Mechanical ones can be handled by untrained users, but for the sake of speed and security training in the ability *[[Trapper]]* is recommended. When it comes to alchemical mines, *[[Trapper]]* or the ability *[[Pyrotechnics]]* is a requirement for use.

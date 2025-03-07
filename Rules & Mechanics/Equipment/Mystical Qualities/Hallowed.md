@@ -1,2 +1,0 @@
-The item is forged in hallowed fire and has extra power against corrupt creatures. A creature that is wounded must roll 1d20 over its total corruption value, or suffer +1d4 damage. When someone wearing Hallowed armor is hit by a successful attack, the attacker must roll 1d20 over its total corruption value; if the outcome is equal to or lower, the armor adds +1d4 protection against the attack.
-Thoroughly corrupt creatures always fail these tests, while beings with zero corruption always pass.

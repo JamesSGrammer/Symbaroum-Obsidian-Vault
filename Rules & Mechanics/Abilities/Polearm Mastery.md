@@ -1,6 +1,0 @@
-The character is initiated in the secrets of long shafted weapons. The spear is a simple weapon and anyone can quickly learn how to make good use of its length. For this reason, the militia armies of the plains and forests are often armed with spears. The character’s advanced skill with long weapons really shows that a simple shaft of hardened wood can be a fearsome weapon in the hands of a trained warrior
-
----
-- Novice **Passive**. The damage dealt by Long weapons is increased one step, to 1D10 for spears and halberds and to 1D8 for staves.
-- Adept **Reaction**. The character has truly mastered the long thrust. The character receives a Free Attack against all enemies who come into range of melee combat – whether it is the enemy who engages the character or vice versa is irrelevant. The only exception is when the enemy also wields a long weapon; in such a situation the character receives no Free Attack.
-- Master **Reaction**. As a Master of long weapons, the character has the skill to keep his or her enemies at bay. The character can use the Free Attack with a polearm to keep an enemy from coming close enough to attack. For as long as the character succeeds in hitting the enemy, the enemy remains unable to attack the character with melee weapons – whether or not the damage penetrates the enemy’s armor.

@@ -1,1 +1,0 @@
-each Suit of armor provides a certain amount of protection, indicated by a specific die. Some armor also has qualities that affect how the armor works mechanically. Just like weapons, different cultures have developed a number of diverse kinds of armor, all with their respective advantages and disadvantages.

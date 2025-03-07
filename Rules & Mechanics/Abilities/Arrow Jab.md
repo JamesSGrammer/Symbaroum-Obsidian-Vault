@@ -1,6 +1,0 @@
-In the chaos of the battlefield, archers sometimes find themselves dragged into the melee. To handle this, techniques on how to use ranged weapons at close range have been developed. This ability may be used with any kind of bow or crossbow.
-
----
-- Novice **Reaction**. As a reaction to a melee attack against him or her, the character can draw an arrow and use it to stab an enemy. The character must succeed with a normal attack roll against the enemy; a successful hit deals 1D6 damage and the qualities of the projectile (if any) are counted.
-- Adept **Reaction**. Like the novice level, but 1D8 damage
-- Master **Reaction**. Like the adept level, but the master also gains a Free Attack with the bow if the jab attack hits. The master stabs with the projectile, then (if successful) loads the bow to make a normal ranged attack at the target. If using a crossbow, this requires that it already be loaded and that the initial stab is made with another bolt, or that the character is in possession of a repeating crossbow.

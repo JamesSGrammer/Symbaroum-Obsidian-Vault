@@ -1,8 +1,0 @@
-**Tradition**: Staff Magic 
-**Material**: Rune staff or melee weapon
-The mystic has his or her staff – or another melee weapon – spin around at such velocity that it forms a protective sphere. The sphere effectively parries most attacks. On the negative side, the mystic can not perform attacks or use other powers without dispelling the sphere. The sphere is active until it is willingly aborted, until the mystic uses another power or until it is dispelled by some other mystic using the power Anathema.
-
----
-- Novice **Active**. The sphere lets the mystic choose to defend using Resolute instead of Quick. It can protect the mystic from melee and ranged attacks but not from mystical powers. Only movement is allowed while within the sphere – not even actions which normally can replace movement are possible while maintaining the sphere.
-- Adept **Active**. The sphere automatically defends against an unlimited number of melee and ranged attacks as long as it is active. However, it does not provide any protection against mystical powers and area effects like explosions, smoke bombs or similar.
-- Master **Active**. The master can make a weapon form a sphere without having to touch it. That way, he or she may include an ally in side the sphere. Also, this leaves the hands of the mystic free for other actions, such as drinking an elixir, bandage an ally’s wounds or unrolling a spell scroll – i.e. such actions that can replace a movement action. The mystic cannot affect the world outside the sphere, but can maintain mystical effects which are already active – the same goes for any ally the mystic protects inside the sphere.

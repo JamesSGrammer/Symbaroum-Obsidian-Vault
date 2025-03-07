@@ -1,2 +1,0 @@
-Ancient forging procedures make every hit potentially corrosive. Each hit with the weapon deals 1d4 extra damage for 1d4 turns. The acidic effect is not added to the normal damage; it is rolled as a separate hit.
-Such a weapon is often carried in a special sheath or socket to avoid damaging the owner. In combat, the acid will affect the wielder if the attack roll is 20 and a consecutive roll is higher than the wielders *Accurate* (or the attribute replacing *Accurate* in attacks).

@@ -1,4 +1,4 @@
-**Price**: 50 thaler
+**Price**: 50 [[Thaler]]
 **Damage**: 1D8
 **Quality**: [[Precise]]
 During The Great War the need for a powerful bow that could be used by mounted warriors arose. The traditional longbow was too ungainly – it was so long that it interfered with the horse, or vice versa. To solve this, the asymmetrical horseman’s bow was developed.

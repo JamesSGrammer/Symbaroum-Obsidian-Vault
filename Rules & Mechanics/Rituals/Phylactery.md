@@ -1,2 +1,0 @@
-**Tradition**: Sorcery
-The mystic binds his or her corrupt soul to a vessel – usually a figurine – and is physically resurrected in its vicinity within 1d12 days after having died. Creating a Phylactery costs either one Experience or a point in permanent corruption. Every time the Phylactery is used to resurrect the mystic, he or she suffers 1d6 permanent corruption. Thoroughly corrupt creatures cannot have a Phylactery, since they technically no longer have a soul.

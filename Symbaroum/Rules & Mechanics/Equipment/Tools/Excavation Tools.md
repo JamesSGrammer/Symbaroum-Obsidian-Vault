@@ -1,2 +1,2 @@
-**Price**: 10 thaler
+**Price**: 10 [[Thaler]]
 A couple of shovels, a small skewer, a strainer and a bucket, together with brushes, a knotted measuring line and a loupe. Excavation tools give a +1 bonus to finding treasures in the ruins of the world.

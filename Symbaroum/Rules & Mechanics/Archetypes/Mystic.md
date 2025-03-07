@@ -18,4 +18,4 @@ The following abilities include those listed in both the Core Rulebook and the A
 - **Resolute**: [[Mystical Power]], [[Steadfast]]
 - **Strong**: [[Steadfast]]
 - **Vigilant**: [[Sixth Sense]], [[Witchsight]]
-- **General**: [[HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Abilities/Berserker]], [[Exceptional Attribute]], [[Recovery]], [[Ritualist]], [[Staff Magic]], [[Symbolism]], [[Theurgy]], [[Troll Singing]], [[Witchcraft]], [[Wizardry]]
+- **General**: [[HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Abilities/Berserker]], [[Exceptional Attribute]], [[Recovery]], [[Ritualist]], [[Staff Magic]], [[Symbolism]], [[HomeBrew/Ruins of Symbaroum/Rules & Mechanics/Abilities/Theurgy]], [[Troll Singing]], [[Witchcraft]], [[Wizardry]]

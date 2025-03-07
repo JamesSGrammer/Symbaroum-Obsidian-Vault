@@ -1,9 +1,0 @@
-The character is schooled in the mysteries of alchemy. With the right ingredients, the character can prepare various elixirs to help it survive in the dark depths of Davokar. A list of alchemical mixtures and potions are featured in Chapter 16: Equipment (page 153). In problem-solving situations, Alchemy can be used to identify drugs and poisons and to gain clues as to where they come from. Other than that, the character may attempt to prepare an elixir once per adventure. This attempt can be performed before the start of an adventure or at any appropriate moment during the adventure – for example when traveling through a forest or when passing through a cave where potent ingredients may be found.
-
-### Alchemy (expanded)
-The alchemists’ field of knowledge is constantly growing as old recipes are recovered and new formulas created. With the Advanced Player’s Guide alchemists may create more elixirs, all of them listed in the margin on page 62, sorted into separate levels like in the Core Rulebook. The effects of the elixirs are described in the chapter Equipment on page 120. Alchemists are used to working with explosive and volatile substances, and are therefore able to handle alchemical grenades correctly and efficiently. Hence, alchemists – starting at the novice level – do not risk failing catastrophically with alchemical grenades.
-
----
-- Novice **Special**. With a successful roll against Cunning the character can gather herbs and minerals to create one dose of a [[Novice Elixir's]].
-- Adept **Special**. As an acknowledged alchemist the character can roll against Cunning to gather herbs and minerals to create one dose of an [[Adept Elixir's]] or 1D4 doses of a [[Novice Elixir's]].
-- Master **Special**. The character can, as a widely renowned alchemist, roll against Cunning to gather herbs and minerals to create one dose of a [[Master Elixir's]], 1D4 doses of an [[Adept Elixir's]] or 1D8 doses of a [[Novice Elixir's]].

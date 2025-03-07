@@ -1,1 +1,0 @@
-The *Cunning* Attribute represents a character’s wit and knowledge, its common sense as well as actual schooling and education. You usually test *Cunning* when trying to remember facts, when solving a logical problem or puzzle, or when doing [[research]] in a library. *Cunning* is usually tested against a specific level of Difficulty, decided by the Game Master.

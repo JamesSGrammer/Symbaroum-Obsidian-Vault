@@ -1,4 +1,0 @@
-**Tradition**: Theurgy
-The mystic sanctifies a location, thereby shielding it from outside mystical influence. A sacred location blocks rituals like Clairvoyance, Summoning, Heretic´s Trail and the like, but should any of these rituals be tracking or hunting a person the block is gone as soon as the person leaves the sacred area.
-Abominations (creatures that are members of the Abomination monster category) feel sick when getting close to an area that has been sanctified, and suffer 1D4 damage that ignores Armor each turn they remain on holy ground. Creatures that are tainted but have not yet turned into a true abomination experience a strong discomfort when around sacred locations and objects.
-Sanctifying Rite can also be performed over a weapon, which is a requirement for the Witch Hammer power

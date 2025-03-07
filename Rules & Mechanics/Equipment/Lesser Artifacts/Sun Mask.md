@@ -1,2 +1,0 @@
-**Price**: 10 [[Thaler]]
-The sun masks of the theurgs bestow spiritual warmth to the cold-hearted and spread light where no other light can reach. Worn by a theurg, they can also assist in combat against undead and abominations. The mask radiates light around the wearer as if it is a torch; also, all powers with holy or banishing effects have a +1 bonus to effect tests.

@@ -1,6 +1,0 @@
-According to Ambrians, scholarly knowledge is counted as one of the highest virtues. Hence, it is hardly surprising that Ambrian scholars have studied skirmishes meticulously to see if the tac tics of battles can work on a lesser scale, among smaller groups and even in duels. The result is a style of combat governed by strict principles and calculations, which over time can out-maneuver even the most aggressive attacker. The character is trained in this scholarly warrior tradition. A schooled tactician may also use this ability to analyze a tactical approach and find both its strengths and weaknesses. This can be done for offensive purposes when facing a hostile group or defensively, to establish a strong defense.
-
----
-- Novice **Passive**. The character has studied the tactics of warfare and grasped its fundamental principles. The character may use Cunning instead of Quick when calculating its Initiative.
-- Adept **Passive**. The character has mastered the art of a good defensive posture, which allows him or her to use Cunning instead of Quick when calculating Defense.
-- Master **Passive**. The character is a genius when it comes to offensive warfare, which allows the character to use Cunning instead of Accurate when attacking with anything but heavy weapons.

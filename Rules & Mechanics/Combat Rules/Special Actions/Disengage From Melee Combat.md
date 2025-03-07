@@ -1,1 +1,0 @@
-Disengaging from a melee combat is done on the character’s Initiative and costs a Movement Action. The enemy is allowed a Free Attack against the character. This also applies to situations when the character is facing multiple opponents, in which case each opponent is allowed a Free Attack against the character when he or she chooses to disengage.

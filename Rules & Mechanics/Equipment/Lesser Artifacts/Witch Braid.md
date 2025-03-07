@@ -1,2 +1,0 @@
-**Price**: 8 [[Thaler]]
-This braid is made from three types of hair or fur and keeps death at bay, giving a +1 bonus to *[[Strong]]* during death tests. Non-player characters with the braid get to make death tests, with the +1 bonus.

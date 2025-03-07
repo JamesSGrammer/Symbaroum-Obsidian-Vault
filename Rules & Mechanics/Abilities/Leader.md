@@ -1,6 +1,0 @@
-There are many who fight their way to a position of leadership, but there are few who get pointed out as true leaders by the people they are meant to lead. If equipped with this ability the character is an inspiring, charismatic and eloquent person whom others listen to and follow, sometimes to their death. Outside of combat, the Leader ability can be useful to seize command over a group of strangers, organize a militia and the like.
-
----
-- Novice **Passive**. Due to its strong personality, the character can use Persuasive in place of Resolute, for instance when weaving mystical powers, though not as a basis for the corruption threshold.
-- Adept **Active**. The character can nominate a creature or an object to be the focused target of his or her allies for the duration of a scene. All allies who attack that target inflict 1D4 additional damage with each hit. Changing the target requires a new active Action from the Leader.
-- Master **Active**. The Leader gives a rousing speech to its allies. This allows them to use his or her Persuasive instead of their own Resolute for the duration of a scene.

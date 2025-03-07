@@ -1,2 +1,0 @@
-**Tradition**: Wizardry
-By using this ritual the mystic can observe and listen in on a faraway location, provided that the mystic has personally visited that location before. People at that location with the [[Witchsight]] ability can realize that they are being watched if they make a successful [Resolute←Discreet] test. Clairvoyance is blocked by the rituals [[Sanctum]], [[Sanctifying Rite]] and [[Witch Circle]].

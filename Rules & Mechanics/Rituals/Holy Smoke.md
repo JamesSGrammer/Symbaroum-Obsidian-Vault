@@ -1,2 +1,0 @@
-**Tradition**: *Theurgy* 
-The mystic can reveal blight-stricken persons or creatures by using incense and making a successful Cunning test. The smoke spreads among those present and gathers around objects and creatures in relation to how corrupted they are: the closer the smoke gathers, the more tainted the creature in question is. The Game Master clearly states if objects or creatures are blight-stricken, blight marked or thoroughly corrupt. Holy Smoke can be countered by the Exchange Shadow ritual.
